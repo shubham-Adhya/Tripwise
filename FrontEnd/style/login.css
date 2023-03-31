@@ -1,0 +1,35 @@
+.login{
+    /* outline: 1px solid; */
+    width: 27%;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    row-gap: 1.5rem;
+}
+.logo1{
+    /* outline:1px solid; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.inputs{
+    width: 100%;
+}
+
+.googbtn:hover{
+    filter: brightness(90%);
+}
+
+@media screen and (max-width:1280px) {
+    .login{
+        width: 60%;
+    }
+}
+@media screen and (max-width:540px) {
+    .login{
+        width: 80%;
+    }
+}
