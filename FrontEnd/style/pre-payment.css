@@ -1,0 +1,75 @@
+#maincontent{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    gap: 1rem;
+    width: 80%;
+    margin: auto;
+}
+#right-sec{
+    /* outline: 1px solid blue; */
+    grid-column-start: 1;
+    grid-column-end: 4;
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    row-gap: 1rem;
+}
+.flightCard{
+    display: flex;
+    justify-content: space-between;
+}
+.info1, .info3{
+    width: 30%;
+}
+.info2{
+    width: 40%;
+    text-align: center;
+}
+.info2 p{
+    font-size: 13px;
+    margin: 0;
+}
+.dep-city, .arr-city, .airline, .rpt{
+    font-size: 13px;
+}
+.planeicon{
+    width: 20px;
+}
+.dep-time, .arr-time{
+    font-size: 18px;
+    font-weight: 700;
+}
+.price-summary{
+    display: flex;
+    flex-direction: column;
+}
+.p1{
+    display: flex;
+    justify-content: space-between;
+    margin: 0;
+    padding: 0;
+    /* outline: 1px solid ; */
+}
+.p1 p,.p2 p{
+    margin: 2px;
+}
+.trip-total{
+    display: flex;
+    flex-direction: column;
+}
+.p2{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+@media screen and (max-width:960px) {
+    #maincontent{
+        grid-template-columns: repeat(1,1fr);
+        width: 100%;
+    }
+    #right-sec{
+        grid-column-start: 1;
+        grid-column-end: 2;
+        
+    }
+}
