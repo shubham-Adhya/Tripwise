@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
     <link rel="stylesheet" href="../style/styles.css" type="text/css">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-aFq/bzH65dt+w6FI2ooMVUpc+21e0SRygnTpmBvdBgSdnuTN7QbdgL+OapgHtvPp" crossorigin="anonymous">
-    <link rel="stylesheet" href="../style/booking.css">
+    <link rel="stylesheet" href="../style/pre-payment.css">
     <title>TripWise Booking</title>
 </head>
 <body>
@@ -70,114 +70,10 @@
     </nav>
     <!-- Nav Ends -->
 
-    <section id="userInputs">
-      <div class="container text-center ">
-          <div class="row row-cols-2 row-cols-lg-4  g-3 g-lg-3 box" >
-            <div class="col" >
-              <div class="input-group">
-                <span class="input-group-text">
-                  <img src="../img/icons8-location-pin-66.png" alt="" width="30px">
-                </span>
-                <div class="form-floating mb-3">
-                  <input type="from" class="form-control" id="floatingInput" placeholder="name@example.com" value="test@example.com">
-                  <label for="floatingInput">Flying from</label>
-                </div>
-              </div>
-            </div>
-            <div class="col">
-              <div class="input-group">
-                <span class="input-group-text">
-                  <img src="../img/icons8-location-pin-66.png" alt="" width="30px">
-                </span>
-                <div class="form-floating mb-3">
-                  <input type="from" class="form-control" id="floatingInput" placeholder="name@example.com" value="test@example.com">
-                  <label for="floatingInput">Flying to</label>
-                </div>
-              </div>  
-            </div>
-            <div class="col">
-              <div class="input-group">
-                <span class="input-group-text" >
-                  <img src="../img/icons8-calendar-48.png" alt="" width="30px">
-                </span>
-                <div class="form-floating mb-3">
-                  <input type="from" class="form-control" id="floatingInput" placeholder="name@example.com" value="test@example.com">
-                  <label for="floatingInput">Departing</label>
-                </div>
-              </div>  
-            </div>
-            <div class="col">
-              <div class="input-group">
-                <span class="input-group-text">
-                  <img src="../img/icons8-calendar-48.png" alt="" width="30px">
-                </span>
-                <div class="form-floating mb-3">
-                  <input type="from" class="form-control" id="floatingInput" placeholder="name@example.com" value="test@example.com">
-                  <label for="floatingInput">Returning</label>
-                </div>
-              </div>  
-            </div>
-          </div>
-      </div>
-    </section>
-
-    <section>
+    <section id="overview" style="margin: 2rem 0rem;">
       <div class="container-fluid bg-body-secondary">
-        <div id="maincontent" >
-          <div id="left-sec">
-            <div class="m-2">
-              <h5>Sort by</h5>
-              <select class="form-select" aria-label=".form-select-lg example">
-                <option selected value="1">Price(Lowest)</option>
-                <option value="2">Price(Highest)</option>
-              </select>
-            </div>
-            <div class="m-2">
-              <h5>Filter by</h5>
-              <div>
-                <h6>Stops</h6>
-                <div class="form-check">
-                  <input class="form-check-input" type="checkbox" value="" id="Nonstop">
-                  <label class="form-check-label" for="flexCheckDefault">
-                    Nonstop
-                  </label>
-                </div>
-                <div class="form-check">
-                  <input class="form-check-input" type="checkbox" value="" id="1Stop">
-                  <label class="form-check-label" for="flexCheckDefault">
-                    1 Stop
-                  </label>
-                </div>
-              </div>
-              <div>
-                <h6>Airlines</h6>
-                <div class="form-check">
-                  <input class="form-check-input" type="checkbox" value="" id="IndiGo">
-                  <label class="form-check-label" for="flexCheckDefault">
-                    IndiGo
-                  </label>
-                </div>
-                <div class="form-check">
-                  <input class="form-check-input" type="checkbox" value="" id="AirIndia">
-                  <label class="form-check-label" for="flexCheckDefault">
-                    Air India
-                  </label>
-                </div>
-                <div class="form-check">
-                  <input class="form-check-input" type="checkbox" value="" id="Vistara">
-                  <label class="form-check-label" for="flexCheckDefault">
-                    Vistara
-                  </label>
-                </div>
-                <div class="form-check">
-                  <input class="form-check-input" type="checkbox" value="" id="GoFirst">
-                  <label class="form-check-label" for="flexCheckDefault">
-                   Go First
-                  </label>
-                </div>
-              </div>
-            </div>
-          </div>
+        <div id="maincontent">
+
           <div id="right-sec">
             <!-- flight infos -->
             <div class="bg-white flightCard">
@@ -187,57 +83,61 @@
                   -
                   <span class="arr-time">12:30 PM</span>
                 </h6>
-                <p class="m-0">
-                  <span class="dep-city">Kolkata</span>
+                <p class="m-0 fw-bold fs-4">
+                  <span class="dep-city fs-4">Kolkata</span>
                   -
-                  <span class="arr-city">Bengaluru</span>
+                  <span class="arr-city fs-4">Bengaluru</span>
                 </p>
-                <p>
+                <p class="m-0">
                   <img src="../img/icons8-airport-64.png" alt="" class="planeicon">
-                  <span class="airline">IndiGo</span>
+                  <span class="airline fw-bolder">IndiGo</span>
+                </p>
+                <p class="m-0">
+                  Flight-no: 
+                  <span class="flight-no fw-bolder ">6E 202</span>
                 </p>
               </div>
               <div class="info2 p-2 bg-body-tertiary" >
                 <p>Departure: <span class="dep-date">2023-05-03</span></p>
                 <p>Arrival: <span class="arr-date">2023-05-03</span></p>
                 <p>(Nonstop)</p>
-              </div>
-              <div class="info3 p-2" >
-                <h5 class="price text-center">₹INR 4500</h5>
-                <p class="rpt text-center">Roundtrip per travel</p>
-              </div>
-            </div>
-            <div class="bg-white flightCard">
-              <div class="info1 p-2" >
-                <h6 class="m-0">
-                  <span class="dep-time">10:00 AM</span>
-                  -
-                  <span class="arr-time">12:30 PM</span>
-                </h6>
-                <p class="m-0">
-                  <span class="dep-city">Kolkata</span>
-                  -
-                  <span class="arr-city">Bengaluru</span>
-                </p>
-                <p>
-                  <img src="../img/icons8-airport-64.png" alt="" class="planeicon">
-                  <span class="airline">IndiGo</span>
-                </p>
-              </div>
-              <div class="info2 p-2 bg-body-tertiary" >
-                <p>Departure: <span class="dep-date">2023-05-03</span></p>
-                <p>Arrival: <span class="arr-date">2023-05-03</span></p>
-                <p>(Nonstop)</p>
-              </div>
-              <div class="info3 p-2" >
-                <h5 class="price text-center">₹INR 4500</h5>
-                <p class="rpt text-center">Roundtrip per travel</p>
               </div>
             </div>
             <!-- flight infos end -->
           </div>
+
+          <div id="left-sec" class="bg-white">
+            <div class="m-3" class="price-summary">
+              <h5 class="fw-bold">Price summary</h5>
+              <div class="p1">
+                <p class="fw-bold" >Traveler <span id="traveler">1:Adult</span></p>
+                <p class="fw-bold" id="price">₹4500</p>
+              </div>
+              <div class="p1">
+                <p>Flight</p>
+                <p id="price">₹3500</p>
+              </div>
+              <div class="p1">
+                <p>Taxes and fees</p>
+                <p id="price">₹1000</p>
+              </div>
+            </div>
+            <div class="m-3" class="trip-total">
+              <div class="p2">
+                <p class="fw-bold">Trip total</p>
+                <p class="fw-bold" id="price">₹4500</p>
+              </div>
+              <div class="p2">
+                <p style="font-size: small;">Rates are quoted in INR</p>
+              </div>
+              <div>
+                <button class="btn btn-danger w-100 mt-2 fw-bolder">Check out</button>
+              </div>
+            </div>
+          </div>
+
         </div>
-      </div>      
+      </div>
     </section>
 
     <section class="footer w-100 m-auto p-4">

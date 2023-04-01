@@ -1,0 +1,2985 @@
+{
+    "pagination": {
+      "limit": 100,
+      "offset": 0,
+      "count": 60,
+      "total": 60
+    },
+    "data": [
+      {
+        "flight_date": "2023-04-01",
+        "flight_status": "scheduled",
+        "departure": {
+          "airport": "Netaji Subhas Chandra",
+          "timezone": "Asia/Kolkata",
+          "iata": "CCU",
+          "icao": "VECC",
+          "terminal": null,
+          "gate": null,
+          "delay": null,
+          "scheduled": "2023-04-01T06:45:00+00:00",
+          "estimated": "2023-04-01T06:45:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "arrival": {
+          "airport": "Bangalore International Airport",
+          "timezone": "Asia/Kolkata",
+          "iata": "BLR",
+          "icao": "VOBL",
+          "terminal": "1",
+          "gate": "A3",
+          "baggage": null,
+          "delay": null,
+          "scheduled": "2023-04-01T09:20:00+00:00",
+          "estimated": "2023-04-01T09:20:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "airline": {
+          "name": "IndiGo",
+          "iata": "6E",
+          "icao": "IGO"
+        },
+        "flight": {
+          "number": "496",
+          "iata": "6E496",
+          "icao": "IGO496",
+          "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+      },
+      {
+        "flight_date": "2023-04-01",
+        "flight_status": "scheduled",
+        "departure": {
+          "airport": "Netaji Subhas Chandra",
+          "timezone": "Asia/Kolkata",
+          "iata": "CCU",
+          "icao": "VECC",
+          "terminal": null,
+          "gate": null,
+          "delay": null,
+          "scheduled": "2023-04-01T05:40:00+00:00",
+          "estimated": "2023-04-01T05:40:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "arrival": {
+          "airport": "Bangalore International Airport",
+          "timezone": "Asia/Kolkata",
+          "iata": "BLR",
+          "icao": "VOBL",
+          "terminal": "1",
+          "gate": "A3",
+          "baggage": null,
+          "delay": null,
+          "scheduled": "2023-04-01T08:10:00+00:00",
+          "estimated": "2023-04-01T08:10:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "airline": {
+          "name": "IndiGo",
+          "iata": "6E",
+          "icao": "IGO"
+        },
+        "flight": {
+          "number": "771",
+          "iata": "6E771",
+          "icao": "IGO771",
+          "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+      },
+      {
+        "flight_date": "2023-04-01",
+        "flight_status": "scheduled",
+        "departure": {
+          "airport": "Netaji Subhas Chandra",
+          "timezone": "Asia/Kolkata",
+          "iata": "CCU",
+          "icao": "VECC",
+          "terminal": null,
+          "gate": null,
+          "delay": null,
+          "scheduled": "2023-04-01T08:20:00+00:00",
+          "estimated": "2023-04-01T08:20:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "arrival": {
+          "airport": "Bangalore International Airport",
+          "timezone": "Asia/Kolkata",
+          "iata": "BLR",
+          "icao": "VOBL",
+          "terminal": "2",
+          "gate": "D8",
+          "baggage": null,
+          "delay": null,
+          "scheduled": "2023-04-01T11:00:00+00:00",
+          "estimated": "2023-04-01T11:00:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "airline": {
+          "name": "AirAsia India",
+          "iata": "I5",
+          "icao": "IAD"
+        },
+        "flight": {
+          "number": "1536",
+          "iata": "I51536",
+          "icao": "IAD1536",
+          "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+      },
+      {
+        "flight_date": "2023-04-01",
+        "flight_status": "scheduled",
+        "departure": {
+          "airport": "Netaji Subhas Chandra",
+          "timezone": "Asia/Kolkata",
+          "iata": "CCU",
+          "icao": "VECC",
+          "terminal": null,
+          "gate": null,
+          "delay": null,
+          "scheduled": "2023-04-01T06:45:00+00:00",
+          "estimated": "2023-04-01T06:45:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "arrival": {
+          "airport": "Bangalore International Airport",
+          "timezone": "Asia/Kolkata",
+          "iata": "BLR",
+          "icao": "VOBL",
+          "terminal": "1",
+          "gate": "A3",
+          "baggage": null,
+          "delay": null,
+          "scheduled": "2023-04-01T09:20:00+00:00",
+          "estimated": "2023-04-01T09:20:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "airline": {
+          "name": "Qantas",
+          "iata": "QF",
+          "icao": "QFA"
+        },
+        "flight": {
+          "number": "5104",
+          "iata": "QF5104",
+          "icao": "QFA5104",
+          "codeshared": {
+            "airline_name": "indigo",
+            "airline_iata": "6e",
+            "airline_icao": "igo",
+            "flight_number": "496",
+            "flight_iata": "6e496",
+            "flight_icao": "igo496"
+          }
+        },
+        "aircraft": null,
+        "live": null
+      },
+      {
+        "flight_date": "2023-04-01",
+        "flight_status": "scheduled",
+        "departure": {
+          "airport": "Netaji Subhas Chandra",
+          "timezone": "Asia/Kolkata",
+          "iata": "CCU",
+          "icao": "VECC",
+          "terminal": null,
+          "gate": null,
+          "delay": null,
+          "scheduled": "2023-04-01T05:40:00+00:00",
+          "estimated": "2023-04-01T05:40:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "arrival": {
+          "airport": "Bangalore International Airport",
+          "timezone": "Asia/Kolkata",
+          "iata": "BLR",
+          "icao": "VOBL",
+          "terminal": "1",
+          "gate": "A3",
+          "baggage": null,
+          "delay": null,
+          "scheduled": "2023-04-01T08:10:00+00:00",
+          "estimated": "2023-04-01T08:10:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "airline": {
+          "name": "Qantas",
+          "iata": "QF",
+          "icao": "QFA"
+        },
+        "flight": {
+          "number": "5102",
+          "iata": "QF5102",
+          "icao": "QFA5102",
+          "codeshared": {
+            "airline_name": "indigo",
+            "airline_iata": "6e",
+            "airline_icao": "igo",
+            "flight_number": "771",
+            "flight_iata": "6e771",
+            "flight_icao": "igo771"
+          }
+        },
+        "aircraft": null,
+        "live": null
+      },
+      {
+        "flight_date": "2023-04-01",
+        "flight_status": "scheduled",
+        "departure": {
+          "airport": "Netaji Subhas Chandra",
+          "timezone": "Asia/Kolkata",
+          "iata": "CCU",
+          "icao": "VECC",
+          "terminal": null,
+          "gate": null,
+          "delay": null,
+          "scheduled": "2023-04-01T04:15:00+00:00",
+          "estimated": "2023-04-01T04:15:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "arrival": {
+          "airport": "Bangalore International Airport",
+          "timezone": "Asia/Kolkata",
+          "iata": "BLR",
+          "icao": "VOBL",
+          "terminal": "1",
+          "gate": "A2",
+          "baggage": "06",
+          "delay": null,
+          "scheduled": "2023-04-01T06:50:00+00:00",
+          "estimated": "2023-04-01T06:50:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "airline": {
+          "name": "Qantas",
+          "iata": "QF",
+          "icao": "QFA"
+        },
+        "flight": {
+          "number": "5100",
+          "iata": "QF5100",
+          "icao": "QFA5100",
+          "codeshared": {
+            "airline_name": "indigo",
+            "airline_iata": "6e",
+            "airline_icao": "igo",
+            "flight_number": "6438",
+            "flight_iata": "6e6438",
+            "flight_icao": "igo6438"
+          }
+        },
+        "aircraft": null,
+        "live": null
+      },
+      {
+        "flight_date": "2023-04-01",
+        "flight_status": "scheduled",
+        "departure": {
+          "airport": "Netaji Subhas Chandra",
+          "timezone": "Asia/Kolkata",
+          "iata": "CCU",
+          "icao": "VECC",
+          "terminal": null,
+          "gate": null,
+          "delay": null,
+          "scheduled": "2023-04-01T04:15:00+00:00",
+          "estimated": "2023-04-01T04:15:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "arrival": {
+          "airport": "Bangalore International Airport",
+          "timezone": "Asia/Kolkata",
+          "iata": "BLR",
+          "icao": "VOBL",
+          "terminal": "1",
+          "gate": "A2",
+          "baggage": "06",
+          "delay": null,
+          "scheduled": "2023-04-01T06:50:00+00:00",
+          "estimated": "2023-04-01T06:50:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "airline": {
+          "name": "IndiGo",
+          "iata": "6E",
+          "icao": "IGO"
+        },
+        "flight": {
+          "number": "6438",
+          "iata": "6E6438",
+          "icao": "IGO6438",
+          "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+      },
+      {
+        "flight_date": "2023-03-31",
+        "flight_status": "scheduled",
+        "departure": {
+          "airport": "Netaji Subhas Chandra",
+          "timezone": "Asia/Kolkata",
+          "iata": "CCU",
+          "icao": "VECC",
+          "terminal": null,
+          "gate": null,
+          "delay": null,
+          "scheduled": "2023-03-31T19:05:00+00:00",
+          "estimated": "2023-03-31T19:05:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "arrival": {
+          "airport": "Bangalore International Airport",
+          "timezone": "Asia/Kolkata",
+          "iata": "BLR",
+          "icao": "VOBL",
+          "terminal": "2",
+          "gate": null,
+          "baggage": "7A",
+          "delay": null,
+          "scheduled": "2023-03-31T21:30:00+00:00",
+          "estimated": "2023-03-31T21:30:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "airline": {
+          "name": "AirAsia",
+          "iata": "AK",
+          "icao": "AXM"
+        },
+        "flight": {
+          "number": "554",
+          "iata": "AK554",
+          "icao": "AXM554",
+          "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+      },
+      {
+        "flight_date": "2023-03-31",
+        "flight_status": "landed",
+        "departure": {
+          "airport": "Netaji Subhas Chandra",
+          "timezone": "Asia/Kolkata",
+          "iata": "CCU",
+          "icao": "VECC",
+          "terminal": null,
+          "gate": "50",
+          "delay": 35,
+          "scheduled": "2023-03-31T20:15:00+00:00",
+          "estimated": "2023-03-31T20:15:00+00:00",
+          "actual": "2023-03-31T20:50:00+00:00",
+          "estimated_runway": "2023-03-31T20:50:00+00:00",
+          "actual_runway": "2023-03-31T20:50:00+00:00"
+        },
+        "arrival": {
+          "airport": "Bangalore International Airport",
+          "timezone": "Asia/Kolkata",
+          "iata": "BLR",
+          "icao": "VOBL",
+          "terminal": "1",
+          "gate": "A3",
+          "baggage": "02",
+          "delay": 33,
+          "scheduled": "2023-03-31T22:35:00+00:00",
+          "estimated": "2023-03-31T22:35:00+00:00",
+          "actual": "2023-03-31T23:02:00+00:00",
+          "estimated_runway": "2023-03-31T23:02:00+00:00",
+          "actual_runway": "2023-03-31T23:02:00+00:00"
+        },
+        "airline": {
+          "name": "SpiceJet",
+          "iata": "SG",
+          "icao": "SEJ"
+        },
+        "flight": {
+          "number": "321",
+          "iata": "SG321",
+          "icao": "SEJ321",
+          "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+      },
+      {
+        "flight_date": "2023-03-31",
+        "flight_status": "scheduled",
+        "departure": {
+          "airport": "Netaji Subhas Chandra",
+          "timezone": "Asia/Kolkata",
+          "iata": "CCU",
+          "icao": "VECC",
+          "terminal": null,
+          "gate": null,
+          "delay": null,
+          "scheduled": "2023-03-31T16:50:00+00:00",
+          "estimated": "2023-03-31T16:50:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "arrival": {
+          "airport": "Bangalore International Airport",
+          "timezone": "Asia/Kolkata",
+          "iata": "BLR",
+          "icao": "VOBL",
+          "terminal": "2",
+          "gate": "D8",
+          "baggage": "7B",
+          "delay": null,
+          "scheduled": "2023-03-31T19:20:00+00:00",
+          "estimated": "2023-03-31T19:20:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "airline": {
+          "name": "AirAsia",
+          "iata": "AK",
+          "icao": "AXM"
+        },
+        "flight": {
+          "number": "991",
+          "iata": "AK991",
+          "icao": "AXM991",
+          "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+      },
+      {
+        "flight_date": "2023-03-31",
+        "flight_status": "landed",
+        "departure": {
+          "airport": "Netaji Subhas Chandra",
+          "timezone": "Asia/Kolkata",
+          "iata": "CCU",
+          "icao": "VECC",
+          "terminal": null,
+          "gate": null,
+          "delay": 4,
+          "scheduled": "2023-03-31T08:20:00+00:00",
+          "estimated": "2023-03-31T08:20:00+00:00",
+          "actual": "2023-03-31T08:23:00+00:00",
+          "estimated_runway": "2023-03-31T08:23:00+00:00",
+          "actual_runway": "2023-03-31T08:23:00+00:00"
+        },
+        "arrival": {
+          "airport": "Bangalore International Airport",
+          "timezone": "Asia/Kolkata",
+          "iata": "BLR",
+          "icao": "VOBL",
+          "terminal": "2",
+          "gate": "D9",
+          "baggage": "6B",
+          "delay": null,
+          "scheduled": "2023-03-31T11:10:00+00:00",
+          "estimated": "2023-03-31T11:10:00+00:00",
+          "actual": "2023-03-31T10:37:00+00:00",
+          "estimated_runway": "2023-03-31T10:37:00+00:00",
+          "actual_runway": "2023-03-31T10:37:00+00:00"
+        },
+        "airline": {
+          "name": "AirAsia India",
+          "iata": "I5",
+          "icao": "IAD"
+        },
+        "flight": {
+          "number": "1536",
+          "iata": "I51536",
+          "icao": "IAD1536",
+          "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+      },
+      {
+        "flight_date": "2023-03-31",
+        "flight_status": "scheduled",
+        "departure": {
+          "airport": "Netaji Subhas Chandra",
+          "timezone": "Asia/Kolkata",
+          "iata": "CCU",
+          "icao": "VECC",
+          "terminal": null,
+          "gate": null,
+          "delay": 55,
+          "scheduled": "2023-03-31T19:05:00+00:00",
+          "estimated": "2023-03-31T19:05:00+00:00",
+          "actual": "2023-03-31T20:18:00+00:00",
+          "estimated_runway": "2023-03-31T20:18:00+00:00",
+          "actual_runway": "2023-03-31T20:18:00+00:00"
+        },
+        "arrival": {
+          "airport": "Bangalore International Airport",
+          "timezone": "Asia/Kolkata",
+          "iata": "BLR",
+          "icao": "VOBL",
+          "terminal": "2",
+          "gate": null,
+          "baggage": "7A",
+          "delay": 66,
+          "scheduled": "2023-03-31T21:30:00+00:00",
+          "estimated": "2023-03-31T21:30:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "airline": {
+          "name": "AirAsia India",
+          "iata": "I5",
+          "icao": "IAD"
+        },
+        "flight": {
+          "number": "554",
+          "iata": "I5554",
+          "icao": "IAD554",
+          "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+      },
+      {
+        "flight_date": "2023-03-31",
+        "flight_status": "landed",
+        "departure": {
+          "airport": "Netaji Subhas Chandra",
+          "timezone": "Asia/Kolkata",
+          "iata": "CCU",
+          "icao": "VECC",
+          "terminal": null,
+          "gate": null,
+          "delay": 9,
+          "scheduled": "2023-03-31T16:50:00+00:00",
+          "estimated": "2023-03-31T16:50:00+00:00",
+          "actual": "2023-03-31T16:59:00+00:00",
+          "estimated_runway": "2023-03-31T16:59:00+00:00",
+          "actual_runway": "2023-03-31T16:59:00+00:00"
+        },
+        "arrival": {
+          "airport": "Bangalore International Airport",
+          "timezone": "Asia/Kolkata",
+          "iata": "BLR",
+          "icao": "VOBL",
+          "terminal": "2",
+          "gate": "D7",
+          "baggage": "6A",
+          "delay": 4,
+          "scheduled": "2023-03-31T19:20:00+00:00",
+          "estimated": "2023-03-31T19:20:00+00:00",
+          "actual": "2023-03-31T19:13:00+00:00",
+          "estimated_runway": "2023-03-31T19:13:00+00:00",
+          "actual_runway": "2023-03-31T19:13:00+00:00"
+        },
+        "airline": {
+          "name": "AirAsia India",
+          "iata": "I5",
+          "icao": "IAD"
+        },
+        "flight": {
+          "number": "991",
+          "iata": "I5991",
+          "icao": "IAD991",
+          "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+      },
+      {
+        "flight_date": "2023-03-31",
+        "flight_status": "landed",
+        "departure": {
+          "airport": "Netaji Subhas Chandra",
+          "timezone": "Asia/Kolkata",
+          "iata": "CCU",
+          "icao": "VECC",
+          "terminal": null,
+          "gate": null,
+          "delay": 10,
+          "scheduled": "2023-03-31T19:55:00+00:00",
+          "estimated": "2023-03-31T19:55:00+00:00",
+          "actual": "2023-03-31T20:05:00+00:00",
+          "estimated_runway": "2023-03-31T20:05:00+00:00",
+          "actual_runway": "2023-03-31T20:05:00+00:00"
+        },
+        "arrival": {
+          "airport": "Bangalore International Airport",
+          "timezone": "Asia/Kolkata",
+          "iata": "BLR",
+          "icao": "VOBL",
+          "terminal": "1",
+          "gate": "A1",
+          "baggage": "07",
+          "delay": null,
+          "scheduled": "2023-03-31T22:25:00+00:00",
+          "estimated": "2023-03-31T22:25:00+00:00",
+          "actual": "2023-03-31T22:21:00+00:00",
+          "estimated_runway": "2023-03-31T22:21:00+00:00",
+          "actual_runway": "2023-03-31T22:21:00+00:00"
+        },
+        "airline": {
+          "name": "KLM",
+          "iata": "KL",
+          "icao": "KLM"
+        },
+        "flight": {
+          "number": "3701",
+          "iata": "KL3701",
+          "icao": "KLM3701",
+          "codeshared": {
+            "airline_name": "indigo",
+            "airline_iata": "6e",
+            "airline_icao": "igo",
+            "flight_number": "6314",
+            "flight_iata": "6e6314",
+            "flight_icao": "igo6314"
+          }
+        },
+        "aircraft": null,
+        "live": null
+      },
+      {
+        "flight_date": "2023-03-31",
+        "flight_status": "landed",
+        "departure": {
+          "airport": "Netaji Subhas Chandra",
+          "timezone": "Asia/Kolkata",
+          "iata": "CCU",
+          "icao": "VECC",
+          "terminal": null,
+          "gate": null,
+          "delay": null,
+          "scheduled": "2023-03-31T18:25:00+00:00",
+          "estimated": "2023-03-31T18:25:00+00:00",
+          "actual": "2023-03-31T18:25:00+00:00",
+          "estimated_runway": "2023-03-31T18:25:00+00:00",
+          "actual_runway": "2023-03-31T18:25:00+00:00"
+        },
+        "arrival": {
+          "airport": "Bangalore International Airport",
+          "timezone": "Asia/Kolkata",
+          "iata": "BLR",
+          "icao": "VOBL",
+          "terminal": "1",
+          "gate": "A3",
+          "baggage": "02",
+          "delay": null,
+          "scheduled": "2023-03-31T20:45:00+00:00",
+          "estimated": "2023-03-31T20:45:00+00:00",
+          "actual": "2023-03-31T20:42:00+00:00",
+          "estimated_runway": "2023-03-31T20:42:00+00:00",
+          "actual_runway": "2023-03-31T20:42:00+00:00"
+        },
+        "airline": {
+          "name": "Qantas",
+          "iata": "QF",
+          "icao": "QFA"
+        },
+        "flight": {
+          "number": "5076",
+          "iata": "QF5076",
+          "icao": "QFA5076",
+          "codeshared": {
+            "airline_name": "indigo",
+            "airline_iata": "6e",
+            "airline_icao": "igo",
+            "flight_number": "6251",
+            "flight_iata": "6e6251",
+            "flight_icao": "igo6251"
+          }
+        },
+        "aircraft": null,
+        "live": null
+      },
+      {
+        "flight_date": "2023-03-31",
+        "flight_status": "landed",
+        "departure": {
+          "airport": "Netaji Subhas Chandra",
+          "timezone": "Asia/Kolkata",
+          "iata": "CCU",
+          "icao": "VECC",
+          "terminal": null,
+          "gate": null,
+          "delay": 3,
+          "scheduled": "2023-03-31T04:15:00+00:00",
+          "estimated": "2023-03-31T04:15:00+00:00",
+          "actual": "2023-03-31T04:18:00+00:00",
+          "estimated_runway": "2023-03-31T04:18:00+00:00",
+          "actual_runway": "2023-03-31T04:18:00+00:00"
+        },
+        "arrival": {
+          "airport": "Bangalore International Airport",
+          "timezone": "Asia/Kolkata",
+          "iata": "BLR",
+          "icao": "VOBL",
+          "terminal": "1",
+          "gate": "A7",
+          "baggage": "06",
+          "delay": null,
+          "scheduled": "2023-03-31T06:50:00+00:00",
+          "estimated": "2023-03-31T06:50:00+00:00",
+          "actual": "2023-03-31T06:28:00+00:00",
+          "estimated_runway": "2023-03-31T06:28:00+00:00",
+          "actual_runway": "2023-03-31T06:28:00+00:00"
+        },
+        "airline": {
+          "name": "Qantas",
+          "iata": "QF",
+          "icao": "QFA"
+        },
+        "flight": {
+          "number": "5100",
+          "iata": "QF5100",
+          "icao": "QFA5100",
+          "codeshared": {
+            "airline_name": "indigo",
+            "airline_iata": "6e",
+            "airline_icao": "igo",
+            "flight_number": "6438",
+            "flight_iata": "6e6438",
+            "flight_icao": "igo6438"
+          }
+        },
+        "aircraft": null,
+        "live": null
+      },
+      {
+        "flight_date": "2023-03-31",
+        "flight_status": "landed",
+        "departure": {
+          "airport": "Netaji Subhas Chandra",
+          "timezone": "Asia/Kolkata",
+          "iata": "CCU",
+          "icao": "VECC",
+          "terminal": null,
+          "gate": null,
+          "delay": null,
+          "scheduled": "2023-03-31T05:40:00+00:00",
+          "estimated": "2023-03-31T05:40:00+00:00",
+          "actual": "2023-03-31T05:34:00+00:00",
+          "estimated_runway": "2023-03-31T05:34:00+00:00",
+          "actual_runway": "2023-03-31T05:34:00+00:00"
+        },
+        "arrival": {
+          "airport": "Bangalore International Airport",
+          "timezone": "Asia/Kolkata",
+          "iata": "BLR",
+          "icao": "VOBL",
+          "terminal": "1",
+          "gate": "A5",
+          "baggage": "04",
+          "delay": null,
+          "scheduled": "2023-03-31T08:10:00+00:00",
+          "estimated": "2023-03-31T08:10:00+00:00",
+          "actual": "2023-03-31T07:51:00+00:00",
+          "estimated_runway": "2023-03-31T07:51:00+00:00",
+          "actual_runway": "2023-03-31T07:51:00+00:00"
+        },
+        "airline": {
+          "name": "Qantas",
+          "iata": "QF",
+          "icao": "QFA"
+        },
+        "flight": {
+          "number": "5102",
+          "iata": "QF5102",
+          "icao": "QFA5102",
+          "codeshared": {
+            "airline_name": "indigo",
+            "airline_iata": "6e",
+            "airline_icao": "igo",
+            "flight_number": "771",
+            "flight_iata": "6e771",
+            "flight_icao": "igo771"
+          }
+        },
+        "aircraft": null,
+        "live": null
+      },
+      {
+        "flight_date": "2023-03-31",
+        "flight_status": "landed",
+        "departure": {
+          "airport": "Netaji Subhas Chandra",
+          "timezone": "Asia/Kolkata",
+          "iata": "CCU",
+          "icao": "VECC",
+          "terminal": null,
+          "gate": null,
+          "delay": 4,
+          "scheduled": "2023-03-31T06:45:00+00:00",
+          "estimated": "2023-03-31T06:45:00+00:00",
+          "actual": "2023-03-31T06:48:00+00:00",
+          "estimated_runway": "2023-03-31T06:48:00+00:00",
+          "actual_runway": "2023-03-31T06:48:00+00:00"
+        },
+        "arrival": {
+          "airport": "Bangalore International Airport",
+          "timezone": "Asia/Kolkata",
+          "iata": "BLR",
+          "icao": "VOBL",
+          "terminal": "1",
+          "gate": "A1",
+          "baggage": "06",
+          "delay": null,
+          "scheduled": "2023-03-31T09:20:00+00:00",
+          "estimated": "2023-03-31T09:20:00+00:00",
+          "actual": "2023-03-31T09:03:00+00:00",
+          "estimated_runway": "2023-03-31T09:03:00+00:00",
+          "actual_runway": "2023-03-31T09:03:00+00:00"
+        },
+        "airline": {
+          "name": "Qantas",
+          "iata": "QF",
+          "icao": "QFA"
+        },
+        "flight": {
+          "number": "5104",
+          "iata": "QF5104",
+          "icao": "QFA5104",
+          "codeshared": {
+            "airline_name": "indigo",
+            "airline_iata": "6e",
+            "airline_icao": "igo",
+            "flight_number": "496",
+            "flight_iata": "6e496",
+            "flight_icao": "igo496"
+          }
+        },
+        "aircraft": null,
+        "live": null
+      },
+      {
+        "flight_date": "2023-03-31",
+        "flight_status": "landed",
+        "departure": {
+          "airport": "Netaji Subhas Chandra",
+          "timezone": "Asia/Kolkata",
+          "iata": "CCU",
+          "icao": "VECC",
+          "terminal": null,
+          "gate": null,
+          "delay": 15,
+          "scheduled": "2023-03-31T08:40:00+00:00",
+          "estimated": "2023-03-31T08:40:00+00:00",
+          "actual": "2023-03-31T08:55:00+00:00",
+          "estimated_runway": "2023-03-31T08:55:00+00:00",
+          "actual_runway": "2023-03-31T08:55:00+00:00"
+        },
+        "arrival": {
+          "airport": "Bangalore International Airport",
+          "timezone": "Asia/Kolkata",
+          "iata": "BLR",
+          "icao": "VOBL",
+          "terminal": "1",
+          "gate": "A3",
+          "baggage": "05",
+          "delay": null,
+          "scheduled": "2023-03-31T11:20:00+00:00",
+          "estimated": "2023-03-31T11:20:00+00:00",
+          "actual": "2023-03-31T11:09:00+00:00",
+          "estimated_runway": "2023-03-31T11:09:00+00:00",
+          "actual_runway": "2023-03-31T11:09:00+00:00"
+        },
+        "airline": {
+          "name": "Qantas",
+          "iata": "QF",
+          "icao": "QFA"
+        },
+        "flight": {
+          "number": "5106",
+          "iata": "QF5106",
+          "icao": "QFA5106",
+          "codeshared": {
+            "airline_name": "indigo",
+            "airline_iata": "6e",
+            "airline_icao": "igo",
+            "flight_number": "764",
+            "flight_iata": "6e764",
+            "flight_icao": "igo764"
+          }
+        },
+        "aircraft": null,
+        "live": null
+      },
+      {
+        "flight_date": "2023-03-31",
+        "flight_status": "landed",
+        "departure": {
+          "airport": "Netaji Subhas Chandra",
+          "timezone": "Asia/Kolkata",
+          "iata": "CCU",
+          "icao": "VECC",
+          "terminal": null,
+          "gate": null,
+          "delay": 9,
+          "scheduled": "2023-03-31T12:50:00+00:00",
+          "estimated": "2023-03-31T12:50:00+00:00",
+          "actual": "2023-03-31T12:59:00+00:00",
+          "estimated_runway": "2023-03-31T12:59:00+00:00",
+          "actual_runway": "2023-03-31T12:59:00+00:00"
+        },
+        "arrival": {
+          "airport": "Bangalore International Airport",
+          "timezone": "Asia/Kolkata",
+          "iata": "BLR",
+          "icao": "VOBL",
+          "terminal": "1",
+          "gate": "A7",
+          "baggage": "05",
+          "delay": null,
+          "scheduled": "2023-03-31T15:20:00+00:00",
+          "estimated": "2023-03-31T15:20:00+00:00",
+          "actual": "2023-03-31T15:10:00+00:00",
+          "estimated_runway": "2023-03-31T15:10:00+00:00",
+          "actual_runway": "2023-03-31T15:10:00+00:00"
+        },
+        "airline": {
+          "name": "Qantas",
+          "iata": "QF",
+          "icao": "QFA"
+        },
+        "flight": {
+          "number": "5110",
+          "iata": "QF5110",
+          "icao": "QFA5110",
+          "codeshared": {
+            "airline_name": "indigo",
+            "airline_iata": "6e",
+            "airline_icao": "igo",
+            "flight_number": "455",
+            "flight_iata": "6e455",
+            "flight_icao": "igo455"
+          }
+        },
+        "aircraft": null,
+        "live": null
+      },
+      {
+        "flight_date": "2023-03-31",
+        "flight_status": "landed",
+        "departure": {
+          "airport": "Netaji Subhas Chandra",
+          "timezone": "Asia/Kolkata",
+          "iata": "CCU",
+          "icao": "VECC",
+          "terminal": null,
+          "gate": null,
+          "delay": 13,
+          "scheduled": "2023-03-31T13:55:00+00:00",
+          "estimated": "2023-03-31T13:55:00+00:00",
+          "actual": "2023-03-31T14:07:00+00:00",
+          "estimated_runway": "2023-03-31T14:07:00+00:00",
+          "actual_runway": "2023-03-31T14:07:00+00:00"
+        },
+        "arrival": {
+          "airport": "Bangalore International Airport",
+          "timezone": "Asia/Kolkata",
+          "iata": "BLR",
+          "icao": "VOBL",
+          "terminal": "1",
+          "gate": "A3",
+          "baggage": "02",
+          "delay": 8,
+          "scheduled": "2023-03-31T16:25:00+00:00",
+          "estimated": "2023-03-31T16:25:00+00:00",
+          "actual": "2023-03-31T16:21:00+00:00",
+          "estimated_runway": "2023-03-31T16:21:00+00:00",
+          "actual_runway": "2023-03-31T16:21:00+00:00"
+        },
+        "airline": {
+          "name": "Qantas",
+          "iata": "QF",
+          "icao": "QFA"
+        },
+        "flight": {
+          "number": "5112",
+          "iata": "QF5112",
+          "icao": "QFA5112",
+          "codeshared": {
+            "airline_name": "indigo",
+            "airline_iata": "6e",
+            "airline_icao": "igo",
+            "flight_number": "958",
+            "flight_iata": "6e958",
+            "flight_icao": "igo958"
+          }
+        },
+        "aircraft": null,
+        "live": null
+      },
+      {
+        "flight_date": "2023-03-31",
+        "flight_status": "landed",
+        "departure": {
+          "airport": "Netaji Subhas Chandra",
+          "timezone": "Asia/Kolkata",
+          "iata": "CCU",
+          "icao": "VECC",
+          "terminal": null,
+          "gate": null,
+          "delay": 4,
+          "scheduled": "2023-03-31T16:45:00+00:00",
+          "estimated": "2023-03-31T16:45:00+00:00",
+          "actual": "2023-03-31T16:48:00+00:00",
+          "estimated_runway": "2023-03-31T16:48:00+00:00",
+          "actual_runway": "2023-03-31T16:48:00+00:00"
+        },
+        "arrival": {
+          "airport": "Bangalore International Airport",
+          "timezone": "Asia/Kolkata",
+          "iata": "BLR",
+          "icao": "VOBL",
+          "terminal": "1",
+          "gate": "A3",
+          "baggage": "04",
+          "delay": null,
+          "scheduled": "2023-03-31T19:20:00+00:00",
+          "estimated": "2023-03-31T19:20:00+00:00",
+          "actual": "2023-03-31T19:04:00+00:00",
+          "estimated_runway": "2023-03-31T19:04:00+00:00",
+          "actual_runway": "2023-03-31T19:04:00+00:00"
+        },
+        "airline": {
+          "name": "Qantas",
+          "iata": "QF",
+          "icao": "QFA"
+        },
+        "flight": {
+          "number": "5114",
+          "iata": "QF5114",
+          "icao": "QFA5114",
+          "codeshared": {
+            "airline_name": "indigo",
+            "airline_iata": "6e",
+            "airline_icao": "igo",
+            "flight_number": "757",
+            "flight_iata": "6e757",
+            "flight_icao": "igo757"
+          }
+        },
+        "aircraft": null,
+        "live": null
+      },
+      {
+        "flight_date": "2023-03-31",
+        "flight_status": "landed",
+        "departure": {
+          "airport": "Netaji Subhas Chandra",
+          "timezone": "Asia/Kolkata",
+          "iata": "CCU",
+          "icao": "VECC",
+          "terminal": null,
+          "gate": null,
+          "delay": 10,
+          "scheduled": "2023-03-31T19:55:00+00:00",
+          "estimated": "2023-03-31T19:55:00+00:00",
+          "actual": "2023-03-31T20:05:00+00:00",
+          "estimated_runway": "2023-03-31T20:05:00+00:00",
+          "actual_runway": "2023-03-31T20:05:00+00:00"
+        },
+        "arrival": {
+          "airport": "Bangalore International Airport",
+          "timezone": "Asia/Kolkata",
+          "iata": "BLR",
+          "icao": "VOBL",
+          "terminal": "1",
+          "gate": "A1",
+          "baggage": "07",
+          "delay": null,
+          "scheduled": "2023-03-31T22:25:00+00:00",
+          "estimated": "2023-03-31T22:25:00+00:00",
+          "actual": "2023-03-31T22:21:00+00:00",
+          "estimated_runway": "2023-03-31T22:21:00+00:00",
+          "actual_runway": "2023-03-31T22:21:00+00:00"
+        },
+        "airline": {
+          "name": "Qantas",
+          "iata": "QF",
+          "icao": "QFA"
+        },
+        "flight": {
+          "number": "5118",
+          "iata": "QF5118",
+          "icao": "QFA5118",
+          "codeshared": {
+            "airline_name": "indigo",
+            "airline_iata": "6e",
+            "airline_icao": "igo",
+            "flight_number": "6314",
+            "flight_iata": "6e6314",
+            "flight_icao": "igo6314"
+          }
+        },
+        "aircraft": null,
+        "live": null
+      },
+      {
+        "flight_date": "2023-03-31",
+        "flight_status": "landed",
+        "departure": {
+          "airport": "Netaji Subhas Chandra",
+          "timezone": "Asia/Kolkata",
+          "iata": "CCU",
+          "icao": "VECC",
+          "terminal": null,
+          "gate": null,
+          "delay": 12,
+          "scheduled": "2023-03-31T21:15:00+00:00",
+          "estimated": "2023-03-31T21:15:00+00:00",
+          "actual": "2023-03-31T21:26:00+00:00",
+          "estimated_runway": "2023-03-31T21:26:00+00:00",
+          "actual_runway": "2023-03-31T21:26:00+00:00"
+        },
+        "arrival": {
+          "airport": "Bangalore International Airport",
+          "timezone": "Asia/Kolkata",
+          "iata": "BLR",
+          "icao": "VOBL",
+          "terminal": "1",
+          "gate": "A5",
+          "baggage": "05",
+          "delay": 2,
+          "scheduled": "2023-03-31T23:50:00+00:00",
+          "estimated": "2023-03-31T23:50:00+00:00",
+          "actual": "2023-03-31T23:46:00+00:00",
+          "estimated_runway": "2023-03-31T23:46:00+00:00",
+          "actual_runway": "2023-03-31T23:46:00+00:00"
+        },
+        "airline": {
+          "name": "Qantas",
+          "iata": "QF",
+          "icao": "QFA"
+        },
+        "flight": {
+          "number": "5120",
+          "iata": "QF5120",
+          "icao": "QFA5120",
+          "codeshared": {
+            "airline_name": "indigo",
+            "airline_iata": "6e",
+            "airline_icao": "igo",
+            "flight_number": "573",
+            "flight_iata": "6e573",
+            "flight_icao": "igo573"
+          }
+        },
+        "aircraft": null,
+        "live": null
+      },
+      {
+        "flight_date": "2023-03-31",
+        "flight_status": "scheduled",
+        "departure": {
+          "airport": "Netaji Subhas Chandra",
+          "timezone": "Asia/Kolkata",
+          "iata": "CCU",
+          "icao": "VECC",
+          "terminal": null,
+          "gate": null,
+          "delay": null,
+          "scheduled": "2023-03-31T08:20:00+00:00",
+          "estimated": "2023-03-31T08:20:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "arrival": {
+          "airport": "Bangalore International Airport",
+          "timezone": "Asia/Kolkata",
+          "iata": "BLR",
+          "icao": "VOBL",
+          "terminal": "2",
+          "gate": "D9",
+          "baggage": "6B",
+          "delay": null,
+          "scheduled": "2023-03-31T11:10:00+00:00",
+          "estimated": "2023-03-31T11:10:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "airline": {
+          "name": "AirAsia",
+          "iata": "AK",
+          "icao": "AXM"
+        },
+        "flight": {
+          "number": "1536",
+          "iata": "AK1536",
+          "icao": "AXM1536",
+          "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+      },
+      {
+        "flight_date": "2023-03-31",
+        "flight_status": "landed",
+        "departure": {
+          "airport": "Netaji Subhas Chandra",
+          "timezone": "Asia/Kolkata",
+          "iata": "CCU",
+          "icao": "VECC",
+          "terminal": null,
+          "gate": null,
+          "delay": null,
+          "scheduled": "2023-03-31T18:25:00+00:00",
+          "estimated": "2023-03-31T18:25:00+00:00",
+          "actual": "2023-03-31T18:25:00+00:00",
+          "estimated_runway": "2023-03-31T18:25:00+00:00",
+          "actual_runway": "2023-03-31T18:25:00+00:00"
+        },
+        "arrival": {
+          "airport": "Bangalore International Airport",
+          "timezone": "Asia/Kolkata",
+          "iata": "BLR",
+          "icao": "VOBL",
+          "terminal": "1",
+          "gate": "A3",
+          "baggage": "02",
+          "delay": null,
+          "scheduled": "2023-03-31T20:45:00+00:00",
+          "estimated": "2023-03-31T20:45:00+00:00",
+          "actual": "2023-03-31T20:42:00+00:00",
+          "estimated_runway": "2023-03-31T20:42:00+00:00",
+          "actual_runway": "2023-03-31T20:42:00+00:00"
+        },
+        "airline": {
+          "name": "IndiGo",
+          "iata": "6E",
+          "icao": "IGO"
+        },
+        "flight": {
+          "number": "6251",
+          "iata": "6E6251",
+          "icao": "IGO6251",
+          "codeshared": null
+        },
+        "aircraft": {
+          "registration": "VT-IVZ",
+          "iata": "A20N",
+          "icao": "A20N",
+          "icao24": "800CEE"
+        },
+        "live": null
+      },
+      {
+        "flight_date": "2023-03-31",
+        "flight_status": "landed",
+        "departure": {
+          "airport": "Netaji Subhas Chandra",
+          "timezone": "Asia/Kolkata",
+          "iata": "CCU",
+          "icao": "VECC",
+          "terminal": null,
+          "gate": null,
+          "delay": 10,
+          "scheduled": "2023-03-31T19:55:00+00:00",
+          "estimated": "2023-03-31T19:55:00+00:00",
+          "actual": "2023-03-31T20:05:00+00:00",
+          "estimated_runway": "2023-03-31T20:05:00+00:00",
+          "actual_runway": "2023-03-31T20:05:00+00:00"
+        },
+        "arrival": {
+          "airport": "Bangalore International Airport",
+          "timezone": "Asia/Kolkata",
+          "iata": "BLR",
+          "icao": "VOBL",
+          "terminal": "1",
+          "gate": "A1",
+          "baggage": "07",
+          "delay": null,
+          "scheduled": "2023-03-31T22:25:00+00:00",
+          "estimated": "2023-03-31T22:25:00+00:00",
+          "actual": "2023-03-31T22:21:00+00:00",
+          "estimated_runway": "2023-03-31T22:21:00+00:00",
+          "actual_runway": "2023-03-31T22:21:00+00:00"
+        },
+        "airline": {
+          "name": "IndiGo",
+          "iata": "6E",
+          "icao": "IGO"
+        },
+        "flight": {
+          "number": "6314",
+          "iata": "6E6314",
+          "icao": "IGO6314",
+          "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+      },
+      {
+        "flight_date": "2023-03-31",
+        "flight_status": "landed",
+        "departure": {
+          "airport": "Netaji Subhas Chandra",
+          "timezone": "Asia/Kolkata",
+          "iata": "CCU",
+          "icao": "VECC",
+          "terminal": null,
+          "gate": null,
+          "delay": 12,
+          "scheduled": "2023-03-31T21:15:00+00:00",
+          "estimated": "2023-03-31T21:15:00+00:00",
+          "actual": "2023-03-31T21:26:00+00:00",
+          "estimated_runway": "2023-03-31T21:26:00+00:00",
+          "actual_runway": "2023-03-31T21:26:00+00:00"
+        },
+        "arrival": {
+          "airport": "Bangalore International Airport",
+          "timezone": "Asia/Kolkata",
+          "iata": "BLR",
+          "icao": "VOBL",
+          "terminal": "1",
+          "gate": "A5",
+          "baggage": "05",
+          "delay": 2,
+          "scheduled": "2023-03-31T23:50:00+00:00",
+          "estimated": "2023-03-31T23:50:00+00:00",
+          "actual": "2023-03-31T23:46:00+00:00",
+          "estimated_runway": "2023-03-31T23:46:00+00:00",
+          "actual_runway": "2023-03-31T23:46:00+00:00"
+        },
+        "airline": {
+          "name": "IndiGo",
+          "iata": "6E",
+          "icao": "IGO"
+        },
+        "flight": {
+          "number": "573",
+          "iata": "6E573",
+          "icao": "IGO573",
+          "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+      },
+      {
+        "flight_date": "2023-03-31",
+        "flight_status": "landed",
+        "departure": {
+          "airport": "Netaji Subhas Chandra",
+          "timezone": "Asia/Kolkata",
+          "iata": "CCU",
+          "icao": "VECC",
+          "terminal": null,
+          "gate": null,
+          "delay": 3,
+          "scheduled": "2023-03-31T04:15:00+00:00",
+          "estimated": "2023-03-31T04:15:00+00:00",
+          "actual": "2023-03-31T04:18:00+00:00",
+          "estimated_runway": "2023-03-31T04:18:00+00:00",
+          "actual_runway": "2023-03-31T04:18:00+00:00"
+        },
+        "arrival": {
+          "airport": "Bangalore International Airport",
+          "timezone": "Asia/Kolkata",
+          "iata": "BLR",
+          "icao": "VOBL",
+          "terminal": "1",
+          "gate": "A7",
+          "baggage": "06",
+          "delay": null,
+          "scheduled": "2023-03-31T06:50:00+00:00",
+          "estimated": "2023-03-31T06:50:00+00:00",
+          "actual": "2023-03-31T06:28:00+00:00",
+          "estimated_runway": "2023-03-31T06:28:00+00:00",
+          "actual_runway": "2023-03-31T06:28:00+00:00"
+        },
+        "airline": {
+          "name": "IndiGo",
+          "iata": "6E",
+          "icao": "IGO"
+        },
+        "flight": {
+          "number": "6438",
+          "iata": "6E6438",
+          "icao": "IGO6438",
+          "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+      },
+      {
+        "flight_date": "2023-03-31",
+        "flight_status": "landed",
+        "departure": {
+          "airport": "Netaji Subhas Chandra",
+          "timezone": "Asia/Kolkata",
+          "iata": "CCU",
+          "icao": "VECC",
+          "terminal": null,
+          "gate": null,
+          "delay": 4,
+          "scheduled": "2023-03-31T16:45:00+00:00",
+          "estimated": "2023-03-31T16:45:00+00:00",
+          "actual": "2023-03-31T16:48:00+00:00",
+          "estimated_runway": "2023-03-31T16:48:00+00:00",
+          "actual_runway": "2023-03-31T16:48:00+00:00"
+        },
+        "arrival": {
+          "airport": "Bangalore International Airport",
+          "timezone": "Asia/Kolkata",
+          "iata": "BLR",
+          "icao": "VOBL",
+          "terminal": "1",
+          "gate": "A3",
+          "baggage": "04",
+          "delay": null,
+          "scheduled": "2023-03-31T19:20:00+00:00",
+          "estimated": "2023-03-31T19:20:00+00:00",
+          "actual": "2023-03-31T19:04:00+00:00",
+          "estimated_runway": "2023-03-31T19:04:00+00:00",
+          "actual_runway": "2023-03-31T19:04:00+00:00"
+        },
+        "airline": {
+          "name": "IndiGo",
+          "iata": "6E",
+          "icao": "IGO"
+        },
+        "flight": {
+          "number": "757",
+          "iata": "6E757",
+          "icao": "IGO757",
+          "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+      },
+      {
+        "flight_date": "2023-03-31",
+        "flight_status": "landed",
+        "departure": {
+          "airport": "Netaji Subhas Chandra",
+          "timezone": "Asia/Kolkata",
+          "iata": "CCU",
+          "icao": "VECC",
+          "terminal": null,
+          "gate": null,
+          "delay": 4,
+          "scheduled": "2023-03-31T06:45:00+00:00",
+          "estimated": "2023-03-31T06:45:00+00:00",
+          "actual": "2023-03-31T06:48:00+00:00",
+          "estimated_runway": "2023-03-31T06:48:00+00:00",
+          "actual_runway": "2023-03-31T06:48:00+00:00"
+        },
+        "arrival": {
+          "airport": "Bangalore International Airport",
+          "timezone": "Asia/Kolkata",
+          "iata": "BLR",
+          "icao": "VOBL",
+          "terminal": "1",
+          "gate": "A1",
+          "baggage": "06",
+          "delay": null,
+          "scheduled": "2023-03-31T09:20:00+00:00",
+          "estimated": "2023-03-31T09:20:00+00:00",
+          "actual": "2023-03-31T09:03:00+00:00",
+          "estimated_runway": "2023-03-31T09:03:00+00:00",
+          "actual_runway": "2023-03-31T09:03:00+00:00"
+        },
+        "airline": {
+          "name": "IndiGo",
+          "iata": "6E",
+          "icao": "IGO"
+        },
+        "flight": {
+          "number": "496",
+          "iata": "6E496",
+          "icao": "IGO496",
+          "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+      },
+      {
+        "flight_date": "2023-03-31",
+        "flight_status": "landed",
+        "departure": {
+          "airport": "Netaji Subhas Chandra",
+          "timezone": "Asia/Kolkata",
+          "iata": "CCU",
+          "icao": "VECC",
+          "terminal": null,
+          "gate": null,
+          "delay": 15,
+          "scheduled": "2023-03-31T08:40:00+00:00",
+          "estimated": "2023-03-31T08:40:00+00:00",
+          "actual": "2023-03-31T08:55:00+00:00",
+          "estimated_runway": "2023-03-31T08:55:00+00:00",
+          "actual_runway": "2023-03-31T08:55:00+00:00"
+        },
+        "arrival": {
+          "airport": "Bangalore International Airport",
+          "timezone": "Asia/Kolkata",
+          "iata": "BLR",
+          "icao": "VOBL",
+          "terminal": "1",
+          "gate": "A3",
+          "baggage": "05",
+          "delay": null,
+          "scheduled": "2023-03-31T11:20:00+00:00",
+          "estimated": "2023-03-31T11:20:00+00:00",
+          "actual": "2023-03-31T11:09:00+00:00",
+          "estimated_runway": "2023-03-31T11:09:00+00:00",
+          "actual_runway": "2023-03-31T11:09:00+00:00"
+        },
+        "airline": {
+          "name": "IndiGo",
+          "iata": "6E",
+          "icao": "IGO"
+        },
+        "flight": {
+          "number": "764",
+          "iata": "6E764",
+          "icao": "IGO764",
+          "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+      },
+      {
+        "flight_date": "2023-03-31",
+        "flight_status": "landed",
+        "departure": {
+          "airport": "Netaji Subhas Chandra",
+          "timezone": "Asia/Kolkata",
+          "iata": "CCU",
+          "icao": "VECC",
+          "terminal": null,
+          "gate": null,
+          "delay": null,
+          "scheduled": "2023-03-31T05:40:00+00:00",
+          "estimated": "2023-03-31T05:40:00+00:00",
+          "actual": "2023-03-31T05:34:00+00:00",
+          "estimated_runway": "2023-03-31T05:34:00+00:00",
+          "actual_runway": "2023-03-31T05:34:00+00:00"
+        },
+        "arrival": {
+          "airport": "Bangalore International Airport",
+          "timezone": "Asia/Kolkata",
+          "iata": "BLR",
+          "icao": "VOBL",
+          "terminal": "1",
+          "gate": "A5",
+          "baggage": "04",
+          "delay": null,
+          "scheduled": "2023-03-31T08:10:00+00:00",
+          "estimated": "2023-03-31T08:10:00+00:00",
+          "actual": "2023-03-31T07:51:00+00:00",
+          "estimated_runway": "2023-03-31T07:51:00+00:00",
+          "actual_runway": "2023-03-31T07:51:00+00:00"
+        },
+        "airline": {
+          "name": "IndiGo",
+          "iata": "6E",
+          "icao": "IGO"
+        },
+        "flight": {
+          "number": "771",
+          "iata": "6E771",
+          "icao": "IGO771",
+          "codeshared": null
+        },
+        "aircraft": {
+          "registration": "VT-IVG",
+          "iata": "A20N",
+          "icao": "A20N",
+          "icao24": "800C90"
+        },
+        "live": null
+      },
+      {
+        "flight_date": "2023-03-31",
+        "flight_status": "landed",
+        "departure": {
+          "airport": "Netaji Subhas Chandra",
+          "timezone": "Asia/Kolkata",
+          "iata": "CCU",
+          "icao": "VECC",
+          "terminal": null,
+          "gate": null,
+          "delay": 13,
+          "scheduled": "2023-03-31T13:55:00+00:00",
+          "estimated": "2023-03-31T13:55:00+00:00",
+          "actual": "2023-03-31T14:07:00+00:00",
+          "estimated_runway": "2023-03-31T14:07:00+00:00",
+          "actual_runway": "2023-03-31T14:07:00+00:00"
+        },
+        "arrival": {
+          "airport": "Bangalore International Airport",
+          "timezone": "Asia/Kolkata",
+          "iata": "BLR",
+          "icao": "VOBL",
+          "terminal": "1",
+          "gate": "A3",
+          "baggage": "02",
+          "delay": 8,
+          "scheduled": "2023-03-31T16:25:00+00:00",
+          "estimated": "2023-03-31T16:25:00+00:00",
+          "actual": "2023-03-31T16:21:00+00:00",
+          "estimated_runway": "2023-03-31T16:21:00+00:00",
+          "actual_runway": "2023-03-31T16:21:00+00:00"
+        },
+        "airline": {
+          "name": "IndiGo",
+          "iata": "6E",
+          "icao": "IGO"
+        },
+        "flight": {
+          "number": "958",
+          "iata": "6E958",
+          "icao": "IGO958",
+          "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+      },
+      {
+        "flight_date": "2023-03-31",
+        "flight_status": "landed",
+        "departure": {
+          "airport": "Netaji Subhas Chandra",
+          "timezone": "Asia/Kolkata",
+          "iata": "CCU",
+          "icao": "VECC",
+          "terminal": null,
+          "gate": null,
+          "delay": 9,
+          "scheduled": "2023-03-31T12:50:00+00:00",
+          "estimated": "2023-03-31T12:50:00+00:00",
+          "actual": "2023-03-31T12:59:00+00:00",
+          "estimated_runway": "2023-03-31T12:59:00+00:00",
+          "actual_runway": "2023-03-31T12:59:00+00:00"
+        },
+        "arrival": {
+          "airport": "Bangalore International Airport",
+          "timezone": "Asia/Kolkata",
+          "iata": "BLR",
+          "icao": "VOBL",
+          "terminal": "1",
+          "gate": "A7",
+          "baggage": "05",
+          "delay": null,
+          "scheduled": "2023-03-31T15:20:00+00:00",
+          "estimated": "2023-03-31T15:20:00+00:00",
+          "actual": "2023-03-31T15:10:00+00:00",
+          "estimated_runway": "2023-03-31T15:10:00+00:00",
+          "actual_runway": "2023-03-31T15:10:00+00:00"
+        },
+        "airline": {
+          "name": "IndiGo",
+          "iata": "6E",
+          "icao": "IGO"
+        },
+        "flight": {
+          "number": "455",
+          "iata": "6E455",
+          "icao": "IGO455",
+          "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+      },
+      {
+        "flight_date": "2023-03-30",
+        "flight_status": "landed",
+        "departure": {
+          "airport": "Netaji Subhas Chandra",
+          "timezone": "Asia/Kolkata",
+          "iata": "CCU",
+          "icao": "VECC",
+          "terminal": null,
+          "gate": null,
+          "delay": 5,
+          "scheduled": "2023-03-30T06:45:00+00:00",
+          "estimated": "2023-03-30T06:45:00+00:00",
+          "actual": "2023-03-30T06:49:00+00:00",
+          "estimated_runway": "2023-03-30T06:49:00+00:00",
+          "actual_runway": "2023-03-30T06:49:00+00:00"
+        },
+        "arrival": {
+          "airport": "Bangalore International Airport",
+          "timezone": "Asia/Kolkata",
+          "iata": "BLR",
+          "icao": "VOBL",
+          "terminal": "1",
+          "gate": "A7",
+          "baggage": "07",
+          "delay": null,
+          "scheduled": "2023-03-30T09:20:00+00:00",
+          "estimated": "2023-03-30T09:20:00+00:00",
+          "actual": "2023-03-30T09:08:00+00:00",
+          "estimated_runway": "2023-03-30T09:08:00+00:00",
+          "actual_runway": "2023-03-30T09:08:00+00:00"
+        },
+        "airline": {
+          "name": "IndiGo",
+          "iata": "6E",
+          "icao": "IGO"
+        },
+        "flight": {
+          "number": "496",
+          "iata": "6E496",
+          "icao": "IGO496",
+          "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+      },
+      {
+        "flight_date": "2023-03-30",
+        "flight_status": "landed",
+        "departure": {
+          "airport": "Netaji Subhas Chandra",
+          "timezone": "Asia/Kolkata",
+          "iata": "CCU",
+          "icao": "VECC",
+          "terminal": null,
+          "gate": null,
+          "delay": 16,
+          "scheduled": "2023-03-30T19:55:00+00:00",
+          "estimated": "2023-03-30T19:55:00+00:00",
+          "actual": "2023-03-30T20:10:00+00:00",
+          "estimated_runway": "2023-03-30T20:10:00+00:00",
+          "actual_runway": "2023-03-30T20:10:00+00:00"
+        },
+        "arrival": {
+          "airport": "Bangalore International Airport",
+          "timezone": "Asia/Kolkata",
+          "iata": "BLR",
+          "icao": "VOBL",
+          "terminal": "1",
+          "gate": "A3",
+          "baggage": "06",
+          "delay": 3,
+          "scheduled": "2023-03-30T22:25:00+00:00",
+          "estimated": "2023-03-30T22:25:00+00:00",
+          "actual": "2023-03-30T22:27:00+00:00",
+          "estimated_runway": "2023-03-30T22:27:00+00:00",
+          "actual_runway": "2023-03-30T22:27:00+00:00"
+        },
+        "airline": {
+          "name": "Qantas",
+          "iata": "QF",
+          "icao": "QFA"
+        },
+        "flight": {
+          "number": "5118",
+          "iata": "QF5118",
+          "icao": "QFA5118",
+          "codeshared": {
+            "airline_name": "indigo",
+            "airline_iata": "6e",
+            "airline_icao": "igo",
+            "flight_number": "6314",
+            "flight_iata": "6e6314",
+            "flight_icao": "igo6314"
+          }
+        },
+        "aircraft": null,
+        "live": null
+      },
+      {
+        "flight_date": "2023-03-30",
+        "flight_status": "landed",
+        "departure": {
+          "airport": "Netaji Subhas Chandra",
+          "timezone": "Asia/Kolkata",
+          "iata": "CCU",
+          "icao": "VECC",
+          "terminal": null,
+          "gate": null,
+          "delay": null,
+          "scheduled": "2023-03-30T16:45:00+00:00",
+          "estimated": "2023-03-30T16:45:00+00:00",
+          "actual": "2023-03-30T16:44:00+00:00",
+          "estimated_runway": "2023-03-30T16:44:00+00:00",
+          "actual_runway": "2023-03-30T16:44:00+00:00"
+        },
+        "arrival": {
+          "airport": "Bangalore International Airport",
+          "timezone": "Asia/Kolkata",
+          "iata": "BLR",
+          "icao": "VOBL",
+          "terminal": "1",
+          "gate": "A5",
+          "baggage": "06",
+          "delay": null,
+          "scheduled": "2023-03-30T19:20:00+00:00",
+          "estimated": "2023-03-30T19:20:00+00:00",
+          "actual": "2023-03-30T19:05:00+00:00",
+          "estimated_runway": "2023-03-30T19:05:00+00:00",
+          "actual_runway": "2023-03-30T19:05:00+00:00"
+        },
+        "airline": {
+          "name": "Qantas",
+          "iata": "QF",
+          "icao": "QFA"
+        },
+        "flight": {
+          "number": "5114",
+          "iata": "QF5114",
+          "icao": "QFA5114",
+          "codeshared": {
+            "airline_name": "indigo",
+            "airline_iata": "6e",
+            "airline_icao": "igo",
+            "flight_number": "757",
+            "flight_iata": "6e757",
+            "flight_icao": "igo757"
+          }
+        },
+        "aircraft": null,
+        "live": null
+      },
+      {
+        "flight_date": "2023-03-30",
+        "flight_status": "landed",
+        "departure": {
+          "airport": "Netaji Subhas Chandra",
+          "timezone": "Asia/Kolkata",
+          "iata": "CCU",
+          "icao": "VECC",
+          "terminal": null,
+          "gate": null,
+          "delay": 27,
+          "scheduled": "2023-03-30T21:15:00+00:00",
+          "estimated": "2023-03-30T21:15:00+00:00",
+          "actual": "2023-03-30T21:41:00+00:00",
+          "estimated_runway": "2023-03-30T21:41:00+00:00",
+          "actual_runway": "2023-03-30T21:41:00+00:00"
+        },
+        "arrival": {
+          "airport": "Bangalore International Airport",
+          "timezone": "Asia/Kolkata",
+          "iata": "BLR",
+          "icao": "VOBL",
+          "terminal": "1",
+          "gate": "A5",
+          "baggage": "04",
+          "delay": 31,
+          "scheduled": "2023-03-30T23:50:00+00:00",
+          "estimated": "2023-03-30T23:50:00+00:00",
+          "actual": "2023-03-31T00:21:00+00:00",
+          "estimated_runway": "2023-03-31T00:21:00+00:00",
+          "actual_runway": "2023-03-31T00:21:00+00:00"
+        },
+        "airline": {
+          "name": "Qantas",
+          "iata": "QF",
+          "icao": "QFA"
+        },
+        "flight": {
+          "number": "5120",
+          "iata": "QF5120",
+          "icao": "QFA5120",
+          "codeshared": {
+            "airline_name": "indigo",
+            "airline_iata": "6e",
+            "airline_icao": "igo",
+            "flight_number": "573",
+            "flight_iata": "6e573",
+            "flight_icao": "igo573"
+          }
+        },
+        "aircraft": null,
+        "live": null
+      },
+      {
+        "flight_date": "2023-03-30",
+        "flight_status": "landed",
+        "departure": {
+          "airport": "Netaji Subhas Chandra",
+          "timezone": "Asia/Kolkata",
+          "iata": "CCU",
+          "icao": "VECC",
+          "terminal": null,
+          "gate": null,
+          "delay": 27,
+          "scheduled": "2023-03-30T21:15:00+00:00",
+          "estimated": "2023-03-30T21:15:00+00:00",
+          "actual": "2023-03-30T21:41:00+00:00",
+          "estimated_runway": "2023-03-30T21:41:00+00:00",
+          "actual_runway": "2023-03-30T21:41:00+00:00"
+        },
+        "arrival": {
+          "airport": "Bangalore International Airport",
+          "timezone": "Asia/Kolkata",
+          "iata": "BLR",
+          "icao": "VOBL",
+          "terminal": "1",
+          "gate": "A5",
+          "baggage": "04",
+          "delay": 31,
+          "scheduled": "2023-03-30T23:50:00+00:00",
+          "estimated": "2023-03-30T23:50:00+00:00",
+          "actual": "2023-03-31T00:21:00+00:00",
+          "estimated_runway": "2023-03-31T00:21:00+00:00",
+          "actual_runway": "2023-03-31T00:21:00+00:00"
+        },
+        "airline": {
+          "name": "IndiGo",
+          "iata": "6E",
+          "icao": "IGO"
+        },
+        "flight": {
+          "number": "573",
+          "iata": "6E573",
+          "icao": "IGO573",
+          "codeshared": null
+        },
+        "aircraft": {
+          "registration": "VT-IPC",
+          "iata": "A20N",
+          "icao": "A20N",
+          "icao24": "801503"
+        },
+        "live": null
+      },
+      {
+        "flight_date": "2023-03-30",
+        "flight_status": "landed",
+        "departure": {
+          "airport": "Netaji Subhas Chandra",
+          "timezone": "Asia/Kolkata",
+          "iata": "CCU",
+          "icao": "VECC",
+          "terminal": null,
+          "gate": null,
+          "delay": 11,
+          "scheduled": "2023-03-30T13:55:00+00:00",
+          "estimated": "2023-03-30T13:55:00+00:00",
+          "actual": "2023-03-30T14:06:00+00:00",
+          "estimated_runway": "2023-03-30T14:06:00+00:00",
+          "actual_runway": "2023-03-30T14:06:00+00:00"
+        },
+        "arrival": {
+          "airport": "Bangalore International Airport",
+          "timezone": "Asia/Kolkata",
+          "iata": "BLR",
+          "icao": "VOBL",
+          "terminal": "1",
+          "gate": "A7",
+          "baggage": "04",
+          "delay": 6,
+          "scheduled": "2023-03-30T16:25:00+00:00",
+          "estimated": "2023-03-30T16:25:00+00:00",
+          "actual": "2023-03-30T16:21:00+00:00",
+          "estimated_runway": "2023-03-30T16:21:00+00:00",
+          "actual_runway": "2023-03-30T16:21:00+00:00"
+        },
+        "airline": {
+          "name": "Qantas",
+          "iata": "QF",
+          "icao": "QFA"
+        },
+        "flight": {
+          "number": "5112",
+          "iata": "QF5112",
+          "icao": "QFA5112",
+          "codeshared": {
+            "airline_name": "indigo",
+            "airline_iata": "6e",
+            "airline_icao": "igo",
+            "flight_number": "958",
+            "flight_iata": "6e958",
+            "flight_icao": "igo958"
+          }
+        },
+        "aircraft": null,
+        "live": null
+      },
+      {
+        "flight_date": "2023-03-30",
+        "flight_status": "landed",
+        "departure": {
+          "airport": "Netaji Subhas Chandra",
+          "timezone": "Asia/Kolkata",
+          "iata": "CCU",
+          "icao": "VECC",
+          "terminal": null,
+          "gate": null,
+          "delay": 13,
+          "scheduled": "2023-03-30T12:50:00+00:00",
+          "estimated": "2023-03-30T12:50:00+00:00",
+          "actual": "2023-03-30T13:02:00+00:00",
+          "estimated_runway": "2023-03-30T13:02:00+00:00",
+          "actual_runway": "2023-03-30T13:02:00+00:00"
+        },
+        "arrival": {
+          "airport": "Bangalore International Airport",
+          "timezone": "Asia/Kolkata",
+          "iata": "BLR",
+          "icao": "VOBL",
+          "terminal": "1",
+          "gate": "A5",
+          "baggage": "05",
+          "delay": null,
+          "scheduled": "2023-03-30T15:20:00+00:00",
+          "estimated": "2023-03-30T15:20:00+00:00",
+          "actual": "2023-03-30T15:19:00+00:00",
+          "estimated_runway": "2023-03-30T15:19:00+00:00",
+          "actual_runway": "2023-03-30T15:19:00+00:00"
+        },
+        "airline": {
+          "name": "Qantas",
+          "iata": "QF",
+          "icao": "QFA"
+        },
+        "flight": {
+          "number": "5110",
+          "iata": "QF5110",
+          "icao": "QFA5110",
+          "codeshared": {
+            "airline_name": "indigo",
+            "airline_iata": "6e",
+            "airline_icao": "igo",
+            "flight_number": "455",
+            "flight_iata": "6e455",
+            "flight_icao": "igo455"
+          }
+        },
+        "aircraft": null,
+        "live": null
+      },
+      {
+        "flight_date": "2023-03-30",
+        "flight_status": "scheduled",
+        "departure": {
+          "airport": "Netaji Subhas Chandra",
+          "timezone": "Asia/Kolkata",
+          "iata": "CCU",
+          "icao": "VECC",
+          "terminal": null,
+          "gate": "53",
+          "delay": 121,
+          "scheduled": "2023-03-30T20:15:00+00:00",
+          "estimated": "2023-03-30T20:15:00+00:00",
+          "actual": "2023-03-30T22:16:00+00:00",
+          "estimated_runway": "2023-03-30T22:16:00+00:00",
+          "actual_runway": "2023-03-30T22:16:00+00:00"
+        },
+        "arrival": {
+          "airport": "Bangalore International Airport",
+          "timezone": "Asia/Kolkata",
+          "iata": "BLR",
+          "icao": "VOBL",
+          "terminal": "1",
+          "gate": "A3",
+          "baggage": "02",
+          "delay": 116,
+          "scheduled": "2023-03-30T22:35:00+00:00",
+          "estimated": "2023-03-30T22:35:00+00:00",
+          "actual": null,
+          "estimated_runway": null,
+          "actual_runway": null
+        },
+        "airline": {
+          "name": "SpiceJet",
+          "iata": "SG",
+          "icao": "SEJ"
+        },
+        "flight": {
+          "number": "321",
+          "iata": "SG321",
+          "icao": "SEJ321",
+          "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+      },
+      {
+        "flight_date": "2023-03-30",
+        "flight_status": "landed",
+        "departure": {
+          "airport": "Netaji Subhas Chandra",
+          "timezone": "Asia/Kolkata",
+          "iata": "CCU",
+          "icao": "VECC",
+          "terminal": null,
+          "gate": null,
+          "delay": 6,
+          "scheduled": "2023-03-30T18:25:00+00:00",
+          "estimated": "2023-03-30T18:25:00+00:00",
+          "actual": "2023-03-30T18:31:00+00:00",
+          "estimated_runway": "2023-03-30T18:31:00+00:00",
+          "actual_runway": "2023-03-30T18:31:00+00:00"
+        },
+        "arrival": {
+          "airport": "Bangalore International Airport",
+          "timezone": "Asia/Kolkata",
+          "iata": "BLR",
+          "icao": "VOBL",
+          "terminal": "1",
+          "gate": "A3",
+          "baggage": "04",
+          "delay": 7,
+          "scheduled": "2023-03-30T20:45:00+00:00",
+          "estimated": "2023-03-30T20:45:00+00:00",
+          "actual": "2023-03-30T20:51:00+00:00",
+          "estimated_runway": "2023-03-30T20:51:00+00:00",
+          "actual_runway": "2023-03-30T20:51:00+00:00"
+        },
+        "airline": {
+          "name": "IndiGo",
+          "iata": "6E",
+          "icao": "IGO"
+        },
+        "flight": {
+          "number": "6251",
+          "iata": "6E6251",
+          "icao": "IGO6251",
+          "codeshared": null
+        },
+        "aircraft": {
+          "registration": "VT-IVZ",
+          "iata": "A20N",
+          "icao": "A20N",
+          "icao24": "800CEE"
+        },
+        "live": null
+      },
+      {
+        "flight_date": "2023-03-30",
+        "flight_status": "landed",
+        "departure": {
+          "airport": "Netaji Subhas Chandra",
+          "timezone": "Asia/Kolkata",
+          "iata": "CCU",
+          "icao": "VECC",
+          "terminal": null,
+          "gate": null,
+          "delay": 13,
+          "scheduled": "2023-03-30T08:40:00+00:00",
+          "estimated": "2023-03-30T08:40:00+00:00",
+          "actual": "2023-03-30T08:53:00+00:00",
+          "estimated_runway": "2023-03-30T08:53:00+00:00",
+          "actual_runway": "2023-03-30T08:53:00+00:00"
+        },
+        "arrival": {
+          "airport": "Bangalore International Airport",
+          "timezone": "Asia/Kolkata",
+          "iata": "BLR",
+          "icao": "VOBL",
+          "terminal": "1",
+          "gate": "A3",
+          "baggage": "05",
+          "delay": null,
+          "scheduled": "2023-03-30T11:20:00+00:00",
+          "estimated": "2023-03-30T11:20:00+00:00",
+          "actual": "2023-03-30T11:15:00+00:00",
+          "estimated_runway": "2023-03-30T11:15:00+00:00",
+          "actual_runway": "2023-03-30T11:15:00+00:00"
+        },
+        "airline": {
+          "name": "Qantas",
+          "iata": "QF",
+          "icao": "QFA"
+        },
+        "flight": {
+          "number": "5106",
+          "iata": "QF5106",
+          "icao": "QFA5106",
+          "codeshared": {
+            "airline_name": "indigo",
+            "airline_iata": "6e",
+            "airline_icao": "igo",
+            "flight_number": "764",
+            "flight_iata": "6e764",
+            "flight_icao": "igo764"
+          }
+        },
+        "aircraft": null,
+        "live": null
+      },
+      {
+        "flight_date": "2023-03-30",
+        "flight_status": "landed",
+        "departure": {
+          "airport": "Netaji Subhas Chandra",
+          "timezone": "Asia/Kolkata",
+          "iata": "CCU",
+          "icao": "VECC",
+          "terminal": null,
+          "gate": null,
+          "delay": 13,
+          "scheduled": "2023-03-30T12:50:00+00:00",
+          "estimated": "2023-03-30T12:50:00+00:00",
+          "actual": "2023-03-30T13:02:00+00:00",
+          "estimated_runway": "2023-03-30T13:02:00+00:00",
+          "actual_runway": "2023-03-30T13:02:00+00:00"
+        },
+        "arrival": {
+          "airport": "Bangalore International Airport",
+          "timezone": "Asia/Kolkata",
+          "iata": "BLR",
+          "icao": "VOBL",
+          "terminal": "1",
+          "gate": "A5",
+          "baggage": "05",
+          "delay": null,
+          "scheduled": "2023-03-30T15:20:00+00:00",
+          "estimated": "2023-03-30T15:20:00+00:00",
+          "actual": "2023-03-30T15:19:00+00:00",
+          "estimated_runway": "2023-03-30T15:19:00+00:00",
+          "actual_runway": "2023-03-30T15:19:00+00:00"
+        },
+        "airline": {
+          "name": "IndiGo",
+          "iata": "6E",
+          "icao": "IGO"
+        },
+        "flight": {
+          "number": "455",
+          "iata": "6E455",
+          "icao": "IGO455",
+          "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+      },
+      {
+        "flight_date": "2023-03-30",
+        "flight_status": "landed",
+        "departure": {
+          "airport": "Netaji Subhas Chandra",
+          "timezone": "Asia/Kolkata",
+          "iata": "CCU",
+          "icao": "VECC",
+          "terminal": null,
+          "gate": null,
+          "delay": 16,
+          "scheduled": "2023-03-30T19:55:00+00:00",
+          "estimated": "2023-03-30T19:55:00+00:00",
+          "actual": "2023-03-30T20:10:00+00:00",
+          "estimated_runway": "2023-03-30T20:10:00+00:00",
+          "actual_runway": "2023-03-30T20:10:00+00:00"
+        },
+        "arrival": {
+          "airport": "Bangalore International Airport",
+          "timezone": "Asia/Kolkata",
+          "iata": "BLR",
+          "icao": "VOBL",
+          "terminal": "1",
+          "gate": "A3",
+          "baggage": "06",
+          "delay": 3,
+          "scheduled": "2023-03-30T22:25:00+00:00",
+          "estimated": "2023-03-30T22:25:00+00:00",
+          "actual": "2023-03-30T22:27:00+00:00",
+          "estimated_runway": "2023-03-30T22:27:00+00:00",
+          "actual_runway": "2023-03-30T22:27:00+00:00"
+        },
+        "airline": {
+          "name": "IndiGo",
+          "iata": "6E",
+          "icao": "IGO"
+        },
+        "flight": {
+          "number": "6314",
+          "iata": "6E6314",
+          "icao": "IGO6314",
+          "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+      },
+      {
+        "flight_date": "2023-03-30",
+        "flight_status": "landed",
+        "departure": {
+          "airport": "Netaji Subhas Chandra",
+          "timezone": "Asia/Kolkata",
+          "iata": "CCU",
+          "icao": "VECC",
+          "terminal": null,
+          "gate": null,
+          "delay": 5,
+          "scheduled": "2023-03-30T06:45:00+00:00",
+          "estimated": "2023-03-30T06:45:00+00:00",
+          "actual": "2023-03-30T06:49:00+00:00",
+          "estimated_runway": "2023-03-30T06:49:00+00:00",
+          "actual_runway": "2023-03-30T06:49:00+00:00"
+        },
+        "arrival": {
+          "airport": "Bangalore International Airport",
+          "timezone": "Asia/Kolkata",
+          "iata": "BLR",
+          "icao": "VOBL",
+          "terminal": "1",
+          "gate": "A7",
+          "baggage": "07",
+          "delay": null,
+          "scheduled": "2023-03-30T09:20:00+00:00",
+          "estimated": "2023-03-30T09:20:00+00:00",
+          "actual": "2023-03-30T09:08:00+00:00",
+          "estimated_runway": "2023-03-30T09:08:00+00:00",
+          "actual_runway": "2023-03-30T09:08:00+00:00"
+        },
+        "airline": {
+          "name": "Qantas",
+          "iata": "QF",
+          "icao": "QFA"
+        },
+        "flight": {
+          "number": "5104",
+          "iata": "QF5104",
+          "icao": "QFA5104",
+          "codeshared": {
+            "airline_name": "indigo",
+            "airline_iata": "6e",
+            "airline_icao": "igo",
+            "flight_number": "496",
+            "flight_iata": "6e496",
+            "flight_icao": "igo496"
+          }
+        },
+        "aircraft": null,
+        "live": null
+      },
+      {
+        "flight_date": "2023-03-30",
+        "flight_status": "landed",
+        "departure": {
+          "airport": "Netaji Subhas Chandra",
+          "timezone": "Asia/Kolkata",
+          "iata": "CCU",
+          "icao": "VECC",
+          "terminal": null,
+          "gate": null,
+          "delay": null,
+          "scheduled": "2023-03-30T04:15:00+00:00",
+          "estimated": "2023-03-30T04:15:00+00:00",
+          "actual": "2023-03-30T04:11:00+00:00",
+          "estimated_runway": "2023-03-30T04:11:00+00:00",
+          "actual_runway": "2023-03-30T04:11:00+00:00"
+        },
+        "arrival": {
+          "airport": "Bangalore International Airport",
+          "timezone": "Asia/Kolkata",
+          "iata": "BLR",
+          "icao": "VOBL",
+          "terminal": "1",
+          "gate": "A3",
+          "baggage": "02",
+          "delay": null,
+          "scheduled": "2023-03-30T06:50:00+00:00",
+          "estimated": "2023-03-30T06:50:00+00:00",
+          "actual": "2023-03-30T06:21:00+00:00",
+          "estimated_runway": "2023-03-30T06:21:00+00:00",
+          "actual_runway": "2023-03-30T06:21:00+00:00"
+        },
+        "airline": {
+          "name": "IndiGo",
+          "iata": "6E",
+          "icao": "IGO"
+        },
+        "flight": {
+          "number": "6438",
+          "iata": "6E6438",
+          "icao": "IGO6438",
+          "codeshared": null
+        },
+        "aircraft": {
+          "registration": "VT-ISO",
+          "iata": "A20N",
+          "icao": "A20N",
+          "icao24": "8013F8"
+        },
+        "live": null
+      },
+      {
+        "flight_date": "2023-03-30",
+        "flight_status": "landed",
+        "departure": {
+          "airport": "Netaji Subhas Chandra",
+          "timezone": "Asia/Kolkata",
+          "iata": "CCU",
+          "icao": "VECC",
+          "terminal": null,
+          "gate": null,
+          "delay": null,
+          "scheduled": "2023-03-30T05:40:00+00:00",
+          "estimated": "2023-03-30T05:40:00+00:00",
+          "actual": "2023-03-30T05:37:00+00:00",
+          "estimated_runway": "2023-03-30T05:37:00+00:00",
+          "actual_runway": "2023-03-30T05:37:00+00:00"
+        },
+        "arrival": {
+          "airport": "Bangalore International Airport",
+          "timezone": "Asia/Kolkata",
+          "iata": "BLR",
+          "icao": "VOBL",
+          "terminal": "1",
+          "gate": "A7",
+          "baggage": "02",
+          "delay": null,
+          "scheduled": "2023-03-30T08:10:00+00:00",
+          "estimated": "2023-03-30T08:10:00+00:00",
+          "actual": "2023-03-30T07:49:00+00:00",
+          "estimated_runway": "2023-03-30T07:49:00+00:00",
+          "actual_runway": "2023-03-30T07:49:00+00:00"
+        },
+        "airline": {
+          "name": "Qantas",
+          "iata": "QF",
+          "icao": "QFA"
+        },
+        "flight": {
+          "number": "5102",
+          "iata": "QF5102",
+          "icao": "QFA5102",
+          "codeshared": {
+            "airline_name": "indigo",
+            "airline_iata": "6e",
+            "airline_icao": "igo",
+            "flight_number": "771",
+            "flight_iata": "6e771",
+            "flight_icao": "igo771"
+          }
+        },
+        "aircraft": null,
+        "live": null
+      },
+      {
+        "flight_date": "2023-03-30",
+        "flight_status": "landed",
+        "departure": {
+          "airport": "Netaji Subhas Chandra",
+          "timezone": "Asia/Kolkata",
+          "iata": "CCU",
+          "icao": "VECC",
+          "terminal": null,
+          "gate": null,
+          "delay": null,
+          "scheduled": "2023-03-30T16:45:00+00:00",
+          "estimated": "2023-03-30T16:45:00+00:00",
+          "actual": "2023-03-30T16:44:00+00:00",
+          "estimated_runway": "2023-03-30T16:44:00+00:00",
+          "actual_runway": "2023-03-30T16:44:00+00:00"
+        },
+        "arrival": {
+          "airport": "Bangalore International Airport",
+          "timezone": "Asia/Kolkata",
+          "iata": "BLR",
+          "icao": "VOBL",
+          "terminal": "1",
+          "gate": "A5",
+          "baggage": "06",
+          "delay": null,
+          "scheduled": "2023-03-30T19:20:00+00:00",
+          "estimated": "2023-03-30T19:20:00+00:00",
+          "actual": "2023-03-30T19:05:00+00:00",
+          "estimated_runway": "2023-03-30T19:05:00+00:00",
+          "actual_runway": "2023-03-30T19:05:00+00:00"
+        },
+        "airline": {
+          "name": "IndiGo",
+          "iata": "6E",
+          "icao": "IGO"
+        },
+        "flight": {
+          "number": "757",
+          "iata": "6E757",
+          "icao": "IGO757",
+          "codeshared": null
+        },
+        "aircraft": {
+          "registration": "VT-ITM",
+          "iata": "A20N",
+          "icao": "A20N",
+          "icao24": "800BC1"
+        },
+        "live": null
+      },
+      {
+        "flight_date": "2023-03-30",
+        "flight_status": "landed",
+        "departure": {
+          "airport": "Netaji Subhas Chandra",
+          "timezone": "Asia/Kolkata",
+          "iata": "CCU",
+          "icao": "VECC",
+          "terminal": null,
+          "gate": null,
+          "delay": null,
+          "scheduled": "2023-03-30T04:15:00+00:00",
+          "estimated": "2023-03-30T04:15:00+00:00",
+          "actual": "2023-03-30T04:11:00+00:00",
+          "estimated_runway": "2023-03-30T04:11:00+00:00",
+          "actual_runway": "2023-03-30T04:11:00+00:00"
+        },
+        "arrival": {
+          "airport": "Bangalore International Airport",
+          "timezone": "Asia/Kolkata",
+          "iata": "BLR",
+          "icao": "VOBL",
+          "terminal": "1",
+          "gate": "A3",
+          "baggage": "02",
+          "delay": null,
+          "scheduled": "2023-03-30T06:50:00+00:00",
+          "estimated": "2023-03-30T06:50:00+00:00",
+          "actual": "2023-03-30T06:21:00+00:00",
+          "estimated_runway": "2023-03-30T06:21:00+00:00",
+          "actual_runway": "2023-03-30T06:21:00+00:00"
+        },
+        "airline": {
+          "name": "Qantas",
+          "iata": "QF",
+          "icao": "QFA"
+        },
+        "flight": {
+          "number": "5100",
+          "iata": "QF5100",
+          "icao": "QFA5100",
+          "codeshared": {
+            "airline_name": "indigo",
+            "airline_iata": "6e",
+            "airline_icao": "igo",
+            "flight_number": "6438",
+            "flight_iata": "6e6438",
+            "flight_icao": "igo6438"
+          }
+        },
+        "aircraft": null,
+        "live": null
+      },
+      {
+        "flight_date": "2023-03-30",
+        "flight_status": "landed",
+        "departure": {
+          "airport": "Netaji Subhas Chandra",
+          "timezone": "Asia/Kolkata",
+          "iata": "CCU",
+          "icao": "VECC",
+          "terminal": null,
+          "gate": null,
+          "delay": 6,
+          "scheduled": "2023-03-30T18:25:00+00:00",
+          "estimated": "2023-03-30T18:25:00+00:00",
+          "actual": "2023-03-30T18:31:00+00:00",
+          "estimated_runway": "2023-03-30T18:31:00+00:00",
+          "actual_runway": "2023-03-30T18:31:00+00:00"
+        },
+        "arrival": {
+          "airport": "Bangalore International Airport",
+          "timezone": "Asia/Kolkata",
+          "iata": "BLR",
+          "icao": "VOBL",
+          "terminal": "1",
+          "gate": "A3",
+          "baggage": "04",
+          "delay": 7,
+          "scheduled": "2023-03-30T20:45:00+00:00",
+          "estimated": "2023-03-30T20:45:00+00:00",
+          "actual": "2023-03-30T20:51:00+00:00",
+          "estimated_runway": "2023-03-30T20:51:00+00:00",
+          "actual_runway": "2023-03-30T20:51:00+00:00"
+        },
+        "airline": {
+          "name": "Qantas",
+          "iata": "QF",
+          "icao": "QFA"
+        },
+        "flight": {
+          "number": "5076",
+          "iata": "QF5076",
+          "icao": "QFA5076",
+          "codeshared": {
+            "airline_name": "indigo",
+            "airline_iata": "6e",
+            "airline_icao": "igo",
+            "flight_number": "6251",
+            "flight_iata": "6e6251",
+            "flight_icao": "igo6251"
+          }
+        },
+        "aircraft": null,
+        "live": null
+      },
+      {
+        "flight_date": "2023-03-30",
+        "flight_status": "landed",
+        "departure": {
+          "airport": "Netaji Subhas Chandra",
+          "timezone": "Asia/Kolkata",
+          "iata": "CCU",
+          "icao": "VECC",
+          "terminal": null,
+          "gate": null,
+          "delay": 13,
+          "scheduled": "2023-03-30T08:40:00+00:00",
+          "estimated": "2023-03-30T08:40:00+00:00",
+          "actual": "2023-03-30T08:53:00+00:00",
+          "estimated_runway": "2023-03-30T08:53:00+00:00",
+          "actual_runway": "2023-03-30T08:53:00+00:00"
+        },
+        "arrival": {
+          "airport": "Bangalore International Airport",
+          "timezone": "Asia/Kolkata",
+          "iata": "BLR",
+          "icao": "VOBL",
+          "terminal": "1",
+          "gate": "A3",
+          "baggage": "05",
+          "delay": null,
+          "scheduled": "2023-03-30T11:20:00+00:00",
+          "estimated": "2023-03-30T11:20:00+00:00",
+          "actual": "2023-03-30T11:15:00+00:00",
+          "estimated_runway": "2023-03-30T11:15:00+00:00",
+          "actual_runway": "2023-03-30T11:15:00+00:00"
+        },
+        "airline": {
+          "name": "IndiGo",
+          "iata": "6E",
+          "icao": "IGO"
+        },
+        "flight": {
+          "number": "764",
+          "iata": "6E764",
+          "icao": "IGO764",
+          "codeshared": null
+        },
+        "aircraft": {
+          "registration": "VT-IZQ",
+          "iata": "A20N",
+          "icao": "A20N",
+          "icao24": "800D4C"
+        },
+        "live": null
+      },
+      {
+        "flight_date": "2023-03-30",
+        "flight_status": "landed",
+        "departure": {
+          "airport": "Netaji Subhas Chandra",
+          "timezone": "Asia/Kolkata",
+          "iata": "CCU",
+          "icao": "VECC",
+          "terminal": null,
+          "gate": null,
+          "delay": 16,
+          "scheduled": "2023-03-30T19:55:00+00:00",
+          "estimated": "2023-03-30T19:55:00+00:00",
+          "actual": "2023-03-30T20:10:00+00:00",
+          "estimated_runway": "2023-03-30T20:10:00+00:00",
+          "actual_runway": "2023-03-30T20:10:00+00:00"
+        },
+        "arrival": {
+          "airport": "Bangalore International Airport",
+          "timezone": "Asia/Kolkata",
+          "iata": "BLR",
+          "icao": "VOBL",
+          "terminal": "1",
+          "gate": "A3",
+          "baggage": "06",
+          "delay": 3,
+          "scheduled": "2023-03-30T22:25:00+00:00",
+          "estimated": "2023-03-30T22:25:00+00:00",
+          "actual": "2023-03-30T22:27:00+00:00",
+          "estimated_runway": "2023-03-30T22:27:00+00:00",
+          "actual_runway": "2023-03-30T22:27:00+00:00"
+        },
+        "airline": {
+          "name": "KLM",
+          "iata": "KL",
+          "icao": "KLM"
+        },
+        "flight": {
+          "number": "3701",
+          "iata": "KL3701",
+          "icao": "KLM3701",
+          "codeshared": {
+            "airline_name": "indigo",
+            "airline_iata": "6e",
+            "airline_icao": "igo",
+            "flight_number": "6314",
+            "flight_iata": "6e6314",
+            "flight_icao": "igo6314"
+          }
+        },
+        "aircraft": null,
+        "live": null
+      },
+      {
+        "flight_date": "2023-03-30",
+        "flight_status": "landed",
+        "departure": {
+          "airport": "Netaji Subhas Chandra",
+          "timezone": "Asia/Kolkata",
+          "iata": "CCU",
+          "icao": "VECC",
+          "terminal": null,
+          "gate": null,
+          "delay": null,
+          "scheduled": "2023-03-30T05:40:00+00:00",
+          "estimated": "2023-03-30T05:40:00+00:00",
+          "actual": "2023-03-30T05:37:00+00:00",
+          "estimated_runway": "2023-03-30T05:37:00+00:00",
+          "actual_runway": "2023-03-30T05:37:00+00:00"
+        },
+        "arrival": {
+          "airport": "Bangalore International Airport",
+          "timezone": "Asia/Kolkata",
+          "iata": "BLR",
+          "icao": "VOBL",
+          "terminal": "1",
+          "gate": "A7",
+          "baggage": "02",
+          "delay": null,
+          "scheduled": "2023-03-30T08:10:00+00:00",
+          "estimated": "2023-03-30T08:10:00+00:00",
+          "actual": "2023-03-30T07:49:00+00:00",
+          "estimated_runway": "2023-03-30T07:49:00+00:00",
+          "actual_runway": "2023-03-30T07:49:00+00:00"
+        },
+        "airline": {
+          "name": "IndiGo",
+          "iata": "6E",
+          "icao": "IGO"
+        },
+        "flight": {
+          "number": "771",
+          "iata": "6E771",
+          "icao": "IGO771",
+          "codeshared": null
+        },
+        "aircraft": {
+          "registration": "VT-IVG",
+          "iata": "A20N",
+          "icao": "A20N",
+          "icao24": "800C90"
+        },
+        "live": null
+      },
+      {
+        "flight_date": "2023-03-30",
+        "flight_status": "landed",
+        "departure": {
+          "airport": "Netaji Subhas Chandra",
+          "timezone": "Asia/Kolkata",
+          "iata": "CCU",
+          "icao": "VECC",
+          "terminal": null,
+          "gate": null,
+          "delay": 11,
+          "scheduled": "2023-03-30T13:55:00+00:00",
+          "estimated": "2023-03-30T13:55:00+00:00",
+          "actual": "2023-03-30T14:06:00+00:00",
+          "estimated_runway": "2023-03-30T14:06:00+00:00",
+          "actual_runway": "2023-03-30T14:06:00+00:00"
+        },
+        "arrival": {
+          "airport": "Bangalore International Airport",
+          "timezone": "Asia/Kolkata",
+          "iata": "BLR",
+          "icao": "VOBL",
+          "terminal": "1",
+          "gate": "A7",
+          "baggage": "04",
+          "delay": 6,
+          "scheduled": "2023-03-30T16:25:00+00:00",
+          "estimated": "2023-03-30T16:25:00+00:00",
+          "actual": "2023-03-30T16:21:00+00:00",
+          "estimated_runway": "2023-03-30T16:21:00+00:00",
+          "actual_runway": "2023-03-30T16:21:00+00:00"
+        },
+        "airline": {
+          "name": "IndiGo",
+          "iata": "6E",
+          "icao": "IGO"
+        },
+        "flight": {
+          "number": "958",
+          "iata": "6E958",
+          "icao": "IGO958",
+          "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+      },
+      {
+        "flight_date": "2023-03-30",
+        "flight_status": "landed",
+        "departure": {
+          "airport": "Netaji Subhas Chandra",
+          "timezone": "Asia/Kolkata",
+          "iata": "CCU",
+          "icao": "VECC",
+          "terminal": null,
+          "gate": null,
+          "delay": 9,
+          "scheduled": "2023-03-30T16:50:00+00:00",
+          "estimated": "2023-03-30T16:50:00+00:00",
+          "actual": "2023-03-30T16:58:00+00:00",
+          "estimated_runway": "2023-03-30T16:58:00+00:00",
+          "actual_runway": "2023-03-30T16:58:00+00:00"
+        },
+        "arrival": {
+          "airport": "Bangalore International Airport",
+          "timezone": "Asia/Kolkata",
+          "iata": "BLR",
+          "icao": "VOBL",
+          "terminal": "2",
+          "gate": "D8",
+          "baggage": "6B",
+          "delay": 2,
+          "scheduled": "2023-03-30T19:20:00+00:00",
+          "estimated": "2023-03-30T19:20:00+00:00",
+          "actual": "2023-03-30T19:16:00+00:00",
+          "estimated_runway": "2023-03-30T19:16:00+00:00",
+          "actual_runway": "2023-03-30T19:16:00+00:00"
+        },
+        "airline": {
+          "name": "AirAsia",
+          "iata": "AK",
+          "icao": "AXM"
+        },
+        "flight": {
+          "number": "991",
+          "iata": "AK991",
+          "icao": "AXM991",
+          "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+      },
+      {
+        "flight_date": "2023-03-30",
+        "flight_status": "landed",
+        "departure": {
+          "airport": "Netaji Subhas Chandra",
+          "timezone": "Asia/Kolkata",
+          "iata": "CCU",
+          "icao": "VECC",
+          "terminal": null,
+          "gate": null,
+          "delay": 6,
+          "scheduled": "2023-03-30T08:20:00+00:00",
+          "estimated": "2023-03-30T08:20:00+00:00",
+          "actual": "2023-03-30T08:25:00+00:00",
+          "estimated_runway": "2023-03-30T08:25:00+00:00",
+          "actual_runway": "2023-03-30T08:25:00+00:00"
+        },
+        "arrival": {
+          "airport": "Bangalore International Airport",
+          "timezone": "Asia/Kolkata",
+          "iata": "BLR",
+          "icao": "VOBL",
+          "terminal": "2",
+          "gate": "D6",
+          "baggage": "6A",
+          "delay": null,
+          "scheduled": "2023-03-30T11:10:00+00:00",
+          "estimated": "2023-03-30T11:10:00+00:00",
+          "actual": "2023-03-30T10:46:00+00:00",
+          "estimated_runway": "2023-03-30T10:46:00+00:00",
+          "actual_runway": "2023-03-30T10:46:00+00:00"
+        },
+        "airline": {
+          "name": "AirAsia",
+          "iata": "AK",
+          "icao": "AXM"
+        },
+        "flight": {
+          "number": "1536",
+          "iata": "AK1536",
+          "icao": "AXM1536",
+          "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+      },
+      {
+        "flight_date": "2023-03-30",
+        "flight_status": "landed",
+        "departure": {
+          "airport": "Netaji Subhas Chandra",
+          "timezone": "Asia/Kolkata",
+          "iata": "CCU",
+          "icao": "VECC",
+          "terminal": null,
+          "gate": null,
+          "delay": 17,
+          "scheduled": "2023-03-30T19:05:00+00:00",
+          "estimated": "2023-03-30T19:05:00+00:00",
+          "actual": "2023-03-30T19:22:00+00:00",
+          "estimated_runway": "2023-03-30T19:22:00+00:00",
+          "actual_runway": "2023-03-30T19:22:00+00:00"
+        },
+        "arrival": {
+          "airport": "Bangalore International Airport",
+          "timezone": "Asia/Kolkata",
+          "iata": "BLR",
+          "icao": "VOBL",
+          "terminal": "2",
+          "gate": "D5",
+          "baggage": "6A",
+          "delay": 8,
+          "scheduled": "2023-03-30T21:30:00+00:00",
+          "estimated": "2023-03-30T21:30:00+00:00",
+          "actual": "2023-03-30T21:38:00+00:00",
+          "estimated_runway": "2023-03-30T21:38:00+00:00",
+          "actual_runway": "2023-03-30T21:38:00+00:00"
+        },
+        "airline": {
+          "name": "AirAsia",
+          "iata": "AK",
+          "icao": "AXM"
+        },
+        "flight": {
+          "number": "554",
+          "iata": "AK554",
+          "icao": "AXM554",
+          "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+      }
+    ]
+  }
