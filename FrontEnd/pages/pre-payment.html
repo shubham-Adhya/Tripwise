@@ -76,7 +76,7 @@
 
           <div id="right-sec">
             <!-- flight infos -->
-            <div class="bg-white flightCard">
+            <!-- <div class="bg-white flightCard">
               <div class="info1 p-2" >
                 <h6 class="m-0">
                   <span class="dep-time">10:00 AM</span>
@@ -102,7 +102,7 @@
                 <p>Arrival: <span class="arr-date">2023-05-03</span></p>
                 <p>(Nonstop)</p>
               </div>
-            </div>
+            </div> -->
             <!-- flight infos end -->
           </div>
 
@@ -110,28 +110,28 @@
             <div class="m-3" class="price-summary">
               <h5 class="fw-bold">Price summary</h5>
               <div class="p1">
-                <p class="fw-bold" >Traveler <span id="traveler">1:Adult</span></p>
-                <p class="fw-bold" id="price">₹4500</p>
+                <p class="fw-bold" >Traveler <span id="traveler">1</span>:Adult</p>
+                <p class="fw-bold" >₹<span id="price"></span></p>
               </div>
               <div class="p1">
                 <p>Flight</p>
-                <p id="price">₹3500</p>
+                <p>₹<span id="fprice"></span></p>
               </div>
               <div class="p1">
                 <p>Taxes and fees</p>
-                <p id="price">₹1000</p>
+                <p>₹<span id="tfprice"></span></p>
               </div>
             </div>
             <div class="m-3" class="trip-total">
               <div class="p2">
                 <p class="fw-bold">Trip total</p>
-                <p class="fw-bold" id="price">₹4500</p>
+                <p class="fw-bold">₹<span id="ttprice"></span></p>
               </div>
               <div class="p2">
                 <p style="font-size: small;">Rates are quoted in INR</p>
               </div>
               <div>
-                <button class="btn btn-danger w-100 mt-2 fw-bolder">Check out</button>
+                <button class="btn btn-danger w-100 mt-2 fw-bolder" id="checkout">Check out</button>
               </div>
             </div>
           </div>
@@ -197,4 +197,4 @@
 </body>
 </html>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha2/dist/js/bootstrap.bundle.min.js" integrity="sha384-qKXV1j0HvMUeCBQ+QVp7JcfGl760yU08IQ+GpUo5hlbpg51QRiuqHAJz8+BrxE/N" crossorigin="anonymous"></script>
-<script src="../src/index.js"></script>
+<script src="../src/pre-payment.js"></script>
