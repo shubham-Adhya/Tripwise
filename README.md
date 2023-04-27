@@ -1,2 +1,2 @@
-# melodic-cream-5493
+# TripWise
 TripWise is an online travel services website
